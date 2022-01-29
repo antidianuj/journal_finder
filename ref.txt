@@ -1,0 +1,4687 @@
+@article{chow2020symptom,
+  title={Symptom screening at illness onset of health care personnel with SARS-CoV-2 infection in King County, Washington},
+  author={Chow, Eric J and Schwartz, Noah G and Tobolowsky, Farrell A and Zacks, Rachael LT and Huntington-Frazier, Melinda and Reddy, Sujan C and Rao, Agam K},
+  journal={Jama},
+  volume={323},
+  number={20},
+  pages={2087--2089},
+  year={2020},
+  publisher={American Medical Association}
+}
+@article{greenhalgh2020covid,
+  title={Covid-19: a remote assessment in primary care},
+  author={Greenhalgh, Trisha and Koh, Gerald Choon Huat and Car, Josip},
+  journal={bmj},
+  volume={368},
+  year={2020},
+  publisher={British Medical Journal Publishing Group}
+}
+@article{kissler2020projecting,
+  title={Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period},
+  author={Kissler, Stephen M and Tedijanto, Christine and Goldstein, Edward and Grad, Yonatan H and Lipsitch, Marc},
+  journal={Science},
+  volume={368},
+  number={6493},
+  pages={860--868},
+  year={2020},
+  publisher={American Association for the Advancement of Science}
+}
+@article{jeong2019smartphone,
+  title={A smartphone magnetometer-based diagnostic test for automatic contact tracing in infectious disease epidemics},
+  author={Jeong, Seungyeon and Kuk, Seungho and Kim, Hyogon},
+  journal={Ieee Access},
+  volume={7},
+  pages={20734--20747},
+  year={2019},
+  publisher={IEEE}
+}
+@article{weiss2019smartphone,
+  title={Smartphone and smartwatch-based biometrics using activities of daily living},
+  author={Weiss, Gary M and Yoneda, Kenichi and Hayajneh, Thaier},
+  journal={IEEE Access},
+  volume={7},
+  pages={133190--133202},
+  year={2019},
+  publisher={IEEE}
+}
+@article{kwapisz2011activity,
+  title={Activity recognition using cell phone accelerometers},
+  author={Kwapisz, Jennifer R and Weiss, Gary M and Moore, Samuel A},
+  journal={ACM SigKDD Explorations Newsletter},
+  volume={12},
+  number={2},
+  pages={74--82},
+  year={2011},
+  publisher={ACM New York, NY, USA}
+}
+@misc{WorldBan66:online,
+author = {},
+title = {World Bank Open Data | Data},
+howpublished = {\url{https://data.worldbank.org/}},
+month = {},
+year = {},
+note = {(Accessed on 08/06/2021)}
+}
+@misc{BibEntry2021Aug7,
+	title = {{COVID-19 Community Mobility Report}},
+	journal = {COVID-19 Community Mobility Report},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://www.google.com/covid19/mobility}
+}
+@article{dunn2020measuring,
+  title={Measuring the effects of the COVID-19 pandemic on consumer spending using card transaction data},
+  author={Dunn, Abe and Hood, Kyle and Driessen, Alexander},
+  journal={US Bureau of Economic Analysis Working Paper WP2020-5},
+  year={2020}
+}
+@inproceedings{hasenkopf2016openaq,
+  title={OpenAQ: An open, real-time air quality data hub for the world},
+  author={Hasenkopf, Christa},
+  booktitle={ISEE Conference Abstracts},
+  year={2016}
+}
+
+@misc{BibEntry2021Aug,
+	title = {{IoT in Healthcare Industry {$\vert$} IoT Applications in Healthcare - Wipro}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://www.wipro.com/business-process/what-can-iot-do-for-healthcare-}
+}
+@article{pukkasenung2021improved,
+  title={Improved Generic Layer Model for IoT Architecture},
+  author={Pukkasenung, Pensri and Lilakiatsakun, Woraphon},
+  journal={JOURNAL OF INFORMATION SCIENCE AND TECHNOLOGY},
+  volume={11},
+  number={1},
+  pages={18--29},
+  year={2021}
+}
+@article{jahmunah2021future,
+  title={Future IoT tools for COVID-19 contact tracing and prediction: A review of the state-of-the-science},
+  author={Jahmunah, Vicnesh and Sudarshan, Vidya K and Oh, Shu Lih and Gururajan, Raj and Gururajan, Rashmi and Zhou, Xujuan and Tao, Xiaohui and Faust, Oliver and Ciaccio, Edward J and Ng, Kwan Hoong and others},
+  journal={International journal of imaging systems and technology},
+  volume={31},
+  number={2},
+  pages={455--471},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+@book{udgata2021internet,
+  title={Internet of Things and Sensor Network for COVID-19},
+  author={Udgata, Siba Kumar and Suryadevara, Nagender Kumar},
+  year={2021},
+  publisher={Springer}
+}
+@ARTICLE{9102306,
+  author={Hernández-Orallo, Enrique and Manzoni, Pietro and Calafate, Carlos Tavares and Cano, Juan-Carlos},
+  journal={IEEE Access}, 
+  title={Evaluating How Smartphone Contact Tracing Technology Can Reduce the Spread of Infectious Diseases: The Case of COVID-19}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={99083-99097},
+  doi={10.1109/ACCESS.2020.2998042}}
+  
+@misc{BibEntry2021Aug8,
+	title = {{World Happiness Report 2021}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 11. Aug. 2021]},
+	url = {https://worldhappiness.report}
+}
+@article{park2020contact,
+	title="Contact transmission of Covid-19 in South Korea: Novel investigation techniques for tracing contacts",
+	author="Ok {Park} and Young Joon {Park} and Shin Young {Park} and Young Man {Kim} and Jieun {Kim} and Jin {Lee} and Eunmi {Park} and Dongwook {Kim} and Byoung Hak {Jeon} and Boyeong {Ryu} and Daehyeon {Ko} and Eunyoung {Kim} and Hwami {Kim} and Hyeyoung {Lee} and Jin {Gwack} and Joongho {Jo} and Jung Hyun {Lee} and Junghee {Hyun} and Jungwoo {Kim} and Jae Kyung {Park} and Sangeun {Lee} and Seong Sun {Kim} and Seung Hwan {Shin} and Seung Woo {Choi} and Taeyoung {Kim} and Un Na {Kim} and Yeonhee {Woo} and Yeowon {Jin} and Yoon Suk {Jang} and Youngjoon {Park} and Minwoo {Yum}",
+	journal="Osong public health and research perspectives",
+	number="1",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3111973348",
+	year="2020"
+}
+@article{jendrny2020scent,
+  title={Scent dog identification of samples from COVID-19 patients--a pilot study},
+  author={Jendrny, Paula and Schulz, Claudia and Twele, Friederike and Meller, Sebastian and von K{\"o}ckritz-Blickwede, Maren and Osterhaus, Albertus Dominicus Marcellinus Erasmus and Ebbers, Janek and Pilchov{\'a}, Veronika and Pink, Isabell and Welte, Tobias and others},
+  journal={BMC infectious diseases},
+  volume={20},
+  number={1},
+  pages={1--7},
+  year={2020},
+  publisher={BioMed Central}
+}
+@article{isella2011close,
+	title="Close encounters in a pediatric ward: measuring face-to-face proximity and mixing patterns with wearable sensors.",
+	author="Lorenzo {Isella} and Mariateresa {Romano} and Alain {Barrat} and Ciro {Cattuto} and Vittoria {Colizza} and Wouter Van den {Broeck} and Francesco {Gesualdo} and Elisabetta {Pandolfi} and Lucilla {Ravà} and Caterina {Rizzo} and Alberto Eugenio {Tozzi}",
+	journal="PLOS ONE",
+	volume="6",
+	number="2",
+	pages="1--16",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2158222386",
+	year="2011"
+}
+@article{farrahi2014epidemic,
+	title="Epidemic contact tracing via communication traces.",
+	author="Katayoun {Farrahi} and Rémi {Emonet} and Manuel {Cebrian}",
+	journal="PLOS ONE",
+	volume="9",
+	number="5",
+	pages="1",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/1992120983",
+	year="2014"
+}
+@article{qian2020safety,
+	title="Safety management of nasopharyngeal specimen collection from suspected cases of coronavirus disease 2019.",
+	author="Yan {Qian} and Tieying {Zeng} and Hui {Wang} and Min {Xu} and Junhua {Chen} and Na {Hu} and Daiqi {Chen} and Yu {Liu}",
+	journal="International Journal of Nursing Sciences",
+	volume="7",
+	number="2",
+	pages="153--156",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3015058054",
+	year="2020"
+}
+
+@book{al2021artificial,
+  title={Artificial Intelligence and Machine Learning for COVID-19},
+  author={Al-Turjman, Fadi},
+  volume={924},
+  year={2021},
+  publisher={Springer Nature}
+}
+@article{patman2003the,
+	title="The use of non-invasive ventilation (NIV) as an adjunct to physiotherapy in the treatment of the acute tetraplegic patient – preliminary results",
+	author="Shane {Patman} and C {Cooling}",
+	journal="",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/1553172854",
+	year="2003"
+}
+
+
+@article{gosztolai2020liftpose3d,
+	title="LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals",
+	author="Adam {Gosztolai} and Semih {Günel} and Marco Pietro {Abrate} and Daniel {Morales} and Victor Lobato {Ríos} and Helge {Rhodin} and Pascal {Fua} and Pavan {Ramdya}",
+	journal="bioRxiv",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3087412484",
+	year="2020"
+}
+
+@misc{BibEntry2021Aug2,
+	title = {{Ventilator Update}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://www.dyson.co.uk/newsroom/overview/update/ventilator-update}
+}
+@misc{BibEntry2021Aug3,
+	title = {{Ford Producing Ventilators for Coronavirus Patients}},
+	journal = {Ford Corporate},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://corporate.ford.com/articles/products/ford-producing-ventilators-for-coronavirus-patients.html}
+}
+@article{Huddleston2020Apr,
+	author = {Huddleston, Tom},
+	title = {{Tesla engineers are building ventilators for coronavirus patients out of car parts{\ifmmode---\else\textemdash\fi}take a look}},
+	journal = {CNBC},
+	year = {2020},
+	month = {Apr},
+	publisher = {CNBC},
+	url = {https://www.cnbc.com/2020/04/06/video-tesla-building-ventilators-for-covid-19-patients-from-car-parts.html}
+}
+
+@misc{BibEntry2020Mar,
+	title = {{A Wireless, Automatic Hand Wash Sensor and Timer}},
+	journal = {Thingsquare},
+	year = {2020},
+	month = {Mar},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://www.thingsquare.com/blog/articles/automatic-hand-wash-timer-tracker}
+}
+
+
+@misc{BibEntry2021Aug4,
+	title = {{Hygiene Monitoring Technology {$\vert$} SAVORTEX}},
+	journal = {SAVORTEX},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://www.savortex.com/hygiene-monitoring-technology}
+}
+
+@misc{Vivalnk2021Aug,
+	author = {Vivalnk, {\relax Inc}.},
+	title = {{Wearable Sensors for Vital Signs: ECG, Temperature {$\vert$} Vivalink}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://www.vivalink.com/wearable-products}
+}
+@misc{BibEntry2021Aug5,
+	title = {{Early Warning System for Contagious Illness {$\vert$} Kinsa Health}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://kinsahealth.com}
+}
+@misc{BibEntry2021May,
+	title = {{Remote Monitoring Technology to Improve Patient Safety - EarlySense}},
+	journal = {EarlySense},
+	year = {2021},
+	month = {May},
+	note = {[Online; accessed 10. Aug. 2021]},
+	url = {https://earlysense.com}
+}
+@article{udugama2020diagnosing,
+	title="Diagnosing COVID-19: The Disease and Tools for Detection",
+	author="Buddhisha {Udugama} and Pranav {Kadhiresan} and Hannah N {Kozlowski} and Ayden {Malekjahani} and Matthew {Osborne} and Vanessa Y C {Li} and Hongmin {Chen} and Samira {Mubareka} and Jonathan B {Gubbay} and Warren C W {Chan}",
+	journal="ACS Nano",
+	volume="14",
+	number="4",
+	pages="3822--3835",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3012991084",
+	year="2020"
+}
+@article{danquah2019use,
+	title="Use of a mobile application for Ebola contact tracing and monitoring in northern Sierra Leone: a proof-of-concept study",
+	author="Lisa O. {Danquah} and Nadia {Hasham} and Matthew {MacFarlane} and Fatu E. {Conteh} and Fatoma {Momoh} and Andrew A. {Tedesco} and Amara {Jambai} and David A. {Ross} and Helen A. {Weiss}",
+	journal="BMC Infectious Diseases",
+	volume="19",
+	number="1",
+	pages="810--810",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2973657939",
+	year="2019"
+}
+
+@article{brangel2018a,
+	title="A Serological Point-of-Care Test for the Detection of IgG Antibodies against Ebola Virus in Human Survivors",
+	author="Polina {Brangel} and Ariel {Sobarzo} and Claudio {Parolo} and Benjamin S. {Miller} and Philip D. {Howes} and Sigal {Gelkop} and Julius J. {Lutwama} and John M. {Dye} and Rachel A. {McKendry} and Leslie {Lobel} and Molly M. {Stevens}",
+	journal="ACS Nano",
+	volume="12",
+	number="1",
+	pages="63--73",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2782235972",
+	year="2018"
+}
+@article{iribarren2016smartphone,
+	title="Smartphone Applications to Support Tuberculosis Prevention and Treatment: Review and Evaluation",
+	author="Sarah J {Iribarren} and Rebecca {Schnall} and Patricia W {Stone} and Alex {Carballo-Diéguez}",
+	journal="Jmir mhealth and uhealth",
+	volume="4",
+	number="2",
+	pages="1--12",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2393830291",
+	year="2016"
+}
+@article{wood2019taking,
+	title="Taking connected mobile-health diagnostics of infectious diseases to the field",
+	author="Christopher S. {Wood} and Michael R. {Thomas} and Jobie {Budd} and Tivani P. {Mashamba-Thompson} and Kobus {Herbst} and Deenan {Pillay} and Rosanna W. {Peeling} and Anne M. {Johnson} and Rachel A. {McKendry} and Molly M. {Stevens}",
+	journal="Nature",
+	volume="566",
+	number="7745",
+	pages="467--474",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2915410268",
+	year="2019"
+}
+@article{kanazawa2016use,
+	title="Use of smartphone attached mobile thermography assessing subclinical inflammation: a pilot study",
+	author="T {Kanazawa} and G {Nakagami} and T {Goto} and H {Noguchi} and M {Oe} and T {Miyagaki} and A {Hayashi} and S {Sasaki} and H {Sanada}",
+	journal="Journal of Wound Care",
+	volume="25",
+	number="4",
+	pages="177--182",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2317636549",
+	year="2016"
+}
+@article{skowronski2006coordinated,
+	title="Coordinated response to SARS, Vancouver, Canada.",
+	author="Danuta M. {Skowronski} and Martin {Petric} and Patricia {Daly} and Robert A. {Parker} and Elizabeth {Bryce} and Patrick W. {Doyle} and Michael A. {Noble} and Diane L. {Roscoe} and Joan {Tomblin} and Tung C. {Yang} and Mel {Krajden} and David M. {Patrick} and Babak {Pourbohloul} and Swee Han {Goh} and William R. {Bowie} and Tim F. {Booth} and S. Aleina {Tweed} and Thomas L. {Perry} and Allison {McGeer} and Robert C. {Brunham}",
+	journal="Emerging Infectious Diseases",
+	volume="12",
+	number="1",
+	pages="155--158",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2153233126",
+	year="2006"
+}
+
+@article{blozik2012influenza,
+	title="Influenza surveillance using data from a telemedicine centre",
+	author="Eva {Blozik} and Chantal {Grandchamp} and Jan von {Overbeck}",
+	journal="International Journal of Public Health",
+	volume="57",
+	number="2",
+	pages="447--452",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2026703057",
+	year="2012"
+}
+@article{malekjahani2019engineering,
+	title="Engineering Steps for Mobile Point-of-Care Diagnostic Devices.",
+	author="Ayden {Malekjahani} and Shrey {Sindhwani} and Abdullah Muhammad {Syed} and Warren C W {Chan}",
+	journal="Accounts of Chemical Research",
+	volume="52",
+	number="9",
+	pages="2406--2414",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2969834564",
+	year="2019"
+}
+
+@incollection{Heo2010Nov,
+	author = {Heo, Joon and Terada, Kenji and Toyama, Masashi and Kurumatani, Shunsuke and Chen, Eric Y.},
+	title = {{User Demand Prediction from Application Usage Pattern in Virtual Smartphone}},
+	booktitle = {{2010 IEEE Second International Conference on Cloud Computing Technology and Science}},
+	journal = {2010 IEEE Second International Conference on Cloud Computing Technology and Science},
+	pages = {449--455},
+	year = {2010},
+	month = {Nov},
+	publisher = {IEEE},
+	doi = {10.1109/CloudCom.2010.52}
+}
+@article{smura2009framework,
+  title={A framework for analysing the usage of mobile services},
+  author={Smura, Timo and Kivi, Antero and T{\"o}yli, Juuso},
+  journal={info},
+  year={2009},
+  publisher={Emerald group publishing limited}
+}
+@article{van2011gleamviz,
+  title={The GLEaMviz computational tool, a publicly available software to explore realistic epidemic spreading scenarios at the global scale},
+  author={Van den Broeck, Wouter and Gioannini, Corrado and Gon{\c{c}}alves, Bruno and Quaggiotto, Marco and Colizza, Vittoria and Vespignani, Alessandro},
+  journal={BMC infectious diseases},
+  volume={11},
+  number={1},
+  pages={1--14},
+  year={2011},
+  publisher={BioMed Central}
+}
+@article{yigitcanlar2020can,
+  title={Can building “artificially intelligent cities” safeguard humanity from natural disasters, pandemics, and other catastrophes? An urban scholar’s perspective},
+  author={Yigitcanlar, Tan and Butler, Luke and Windle, Emily and Desouza, Kevin C and Mehmood, Rashid and Corchado, Juan M},
+  journal={Sensors},
+  volume={20},
+  number={10},
+  pages={2988},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{barrett2009estimating,
+  title={Estimating the impact of public and private strategies for controlling an epidemic: A multi-agent approach},
+  author={Barrett, Christopher L and Bisset, Keith and Leidig, Jonathan and Marathe, Achla and Marathe, Madhav},
+  booktitle={Twenty-First IAAI Conference},
+  year={2009}
+}
+
+@inproceedings{barrett2008interaction,
+  title={An Interaction-Based Approach to Computational Epidemiology.},
+  author={Barrett, Christopher L and Eubank, Stephen G and Marathe, Madhav V},
+  booktitle={AAAI},
+  pages={1590--1593},
+  year={2008}
+}
+@inproceedings{battineni2020ai,
+  title={AI chatbot design during an epidemic like the novel coronavirus},
+  author={Battineni, Gopi and Chintalapudi, Nalini and Amenta, Francesco},
+  booktitle={Healthcare},
+  volume={8},
+  number={2},
+  pages={154},
+  year={2020},
+  organization={Multidisciplinary Digital Publishing Institute}
+}
+@article{luo2019frontiers,
+  title={Frontiers: Machines vs. humans: The impact of artificial intelligence chatbot disclosure on customer purchases},
+  author={Luo, Xueming and Tong, Siliang and Fang, Zheng and Qu, Zhe},
+  journal={Marketing Science},
+  volume={38},
+  number={6},
+  pages={937--947},
+  year={2019},
+  publisher={INFORMS}
+}
+@article{ceola2014satellite,
+  title={Satellite nighttime lights reveal increasing human exposure to floods worldwide},
+  author={Ceola, Serena and Laio, Francesco and Montanari, Alberto},
+  journal={Geophysical Research Letters},
+  volume={41},
+  number={20},
+  pages={7184--7190},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+@article{rolf2021generalizable,
+  title={A generalizable and accessible approach to machine learning with global satellite imagery},
+  author={Rolf, Esther and Proctor, Jonathan and Carleton, Tamma and Bolliger, Ian and Shankar, Vaishaal and Ishihara, Miyabi and Recht, Benjamin and Hsiang, Solomon},
+  journal={Nature Communications},
+  volume={12},
+  number={1},
+  pages={1--11},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@article{subramaniam2020biosurfactants,
+  title={Biosurfactants and anti-inflammatory activity: A potential new approach towards COVID-19},
+  author={Subramaniam, Mohana Devi and Venkatesan, Dhivya and Iyer, Mahalaxmi and Subbarayan, Sarathbabu and Govindasami, Vivekanandhan and Roy, Ayan and Narayanasamy, Arul and Kamalakannan, Siva and Gopalakrishnan, Abilash Valsala and Thangarasu, Raviminickam and others},
+  journal={Current Opinion in Environmental Science \& Health},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{Schissel2021Aug,
+	author = {Schissel, Carly K. and Mohapatra, Somesh and Wolfe, Justin M. and Fadzen, Colin M. and Bellovoda, Kamela and Wu, Chia-Ling and Wood, Jenna A. and Malmberg, Annika B. and Loas, Andrei and G{\ifmmode\acute{o}\else\'{o}\fi}mez-Bombarelli, Rafael and Pentelute, Bradley L.},
+	title = {{Deep learning to design nuclear-targeting abiotic miniproteins - Nature Chemistry}},
+	journal = {Nat. Chem.},
+	pages = {1--9},
+	year = {2021},
+	month = {Aug},
+	issn = {1755-4349},
+	publisher = {Nature Publishing Group},
+	doi = {10.1038/s41557-021-00766-3}
+}
+@article{singh2021multi,
+  title={Multi-Omics Approach in the Identification of Potential Therapeutic Biomolecule for COVID-19},
+  author={Singh, Rachana and Singh, Pradhyumna Kumar and Kumar, Rajnish and Kabir, Md and Kamal, Mohammad Amjad and Rauf, Abdur and Albadrani, Ghadeer M and Sayed, Amany A and Mousa, Shaker A and Abdel-Daim, Mohamed M and others},
+  journal={Frontiers in Pharmacology},
+  volume={12},
+  pages={1062},
+  year={2021},
+  publisher={Frontiers}
+}
+@article{javaid2020industry,
+  title={Industry 4.0 technologies and their applications in fighting COVID-19 pandemic},
+  author={Javaid, Mohd and Haleem, Abid and Vaishya, Raju and Bahl, Shashi and Suman, Rajiv and Vaish, Abhishek},
+  journal={Diabetes \& Metabolic Syndrome: Clinical Research \& Reviews},
+  volume={14},
+  number={4},
+  pages={419--422},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{o2021digital,
+  title={Digital holographic deep learning of red blood cells for field-portable, rapid COVID-19 screening},
+  author={O’Connor, Timothy and Shen, Jian-Bing and Liang, Bruce T and Javidi, Bahram},
+  journal={Optics Letters},
+  volume={46},
+  number={10},
+  pages={2344--2347},
+  year={2021},
+  publisher={Optical Society of America}
+}
+@article{liu20213d,
+  title={A 3D hologram with mixed reality techniques for better understanding the pulmonary lesions of COVID-19: Randomized Controlled Trial.},
+  author={Liu, Songxiang and Xie, Mao and Zhang, Zhicai and Wu, Xinghuo and Gao, Fei and Lu, Lin and Zhang, Jiayao and Xie, Yi and Yang, Fan and Ye, Zhewei},
+  journal={J. med. internet res},
+  year={2021}
+}
+@article{karim2020bolstering,
+  title={Bolstering the surgical response to COVID-19: how virtual technology will save lives and safeguard surgical practice},
+  author={Karim, Jamila S and Hachach-Haram, Nadine and Dasgupta, Prokar},
+  journal={BJU international},
+  volume={125},
+  number={6},
+  pages={E18},
+  year={2020},
+  publisher={Wiley-Blackwell}
+}
+@article{javaid2020virtual,
+  title={Virtual reality applications toward medical field},
+  author={Javaid, Mohd and Haleem, Abid},
+  journal={Clinical Epidemiology and Global Health},
+  volume={8},
+  number={2},
+  pages={600--605},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{lee2020resilience,
+  title={Resilience of the restructured obstetric anaesthesia training programme during the COVID-19 outbreak in Singapore},
+  author={Lee, JSE and Chan, JJI and Ithnin, F and Goy, RWL and Sng, BL},
+  journal={International journal of obstetric anesthesia},
+  volume={43},
+  pages={89--90},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{singh2020significant,
+  title={Significant applications of virtual reality for COVID-19 pandemic},
+  author={Singh, Ravi Pratap and Javaid, Mohd and Kataria, Ravinder and Tyagi, Mohit and Haleem, Abid and Suman, Rajiv},
+  journal={Diabetes \& Metabolic Syndrome: Clinical Research \& Reviews},
+  volume={14},
+  number={4},
+  pages={661--664},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{li2020application,
+  title={Application of CareDose 4D combined with Karl 3D technology in the low dose computed tomography for the follow-up of COVID-19},
+  author={Li, Jiawei and Wang, Xiao and Huang, Xiaolu and Chen, Fangxing and Zhang, Xuesong and Liu, Ying and Luo, Guangzuo and Xu, Xunhua},
+  journal={BMC medical imaging},
+  volume={20},
+  pages={1--6},
+  year={2020},
+  publisher={Springer}
+}
+@article{choong2020global,
+  title={The global rise of 3D printing during the COVID-19 pandemic},
+  author={Choong, Yu Ying Clarrisa and Tan, Hong Wei and Patel, Deven C and Choong, Wan Ting Natalie and Chen, Chun-Hsien and Low, Hong Yee and Tan, Ming Jen and Patel, Chandrakant D and Chua, Chee Kai},
+  journal={Nature Reviews Materials},
+  volume={5},
+  number={9},
+  pages={637--639},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{lewenberg2015inclusive,
+  title={Inclusive block chain protocols},
+  author={Lewenberg, Yoad and Sompolinsky, Yonatan and Zohar, Aviv},
+  booktitle={International Conference on Financial Cryptography and Data Security},
+  pages={528--547},
+  year={2015},
+  organization={Springer}
+}
+@article{nofer2017blockchain,
+  title={Blockchain},
+  author={Nofer, Michael and Gomber, Peter and Hinz, Oliver and Schiereck, Dirk},
+  journal={Business \& Information Systems Engineering},
+  volume={59},
+  number={3},
+  pages={183--187},
+  year={2017},
+  publisher={Springer}
+}
+@article{torky2020covid,
+  title={COVID-19 blockchain framework: innovative approach},
+  author={Torky, Mohamed and Hassanien, Aboul Ella},
+  journal={arXiv preprint arXiv:2004.06081},
+  year={2020}
+}
+@misc{BibEntry2020May,
+	title = {{COVID-19 Worldwide Survey - iReport-Covid App}},
+	year = {2020},
+	month = {May},
+	note = {[Online; accessed 11. Aug. 2021]},
+	url = {https://ireport.algorand.org/en}
+}
+@article{khurshid2020applying,
+  title={Applying blockchain technology to address the crisis of trust during the COVID-19 pandemic},
+  author={Khurshid, Anjum},
+  journal={JMIR medical informatics},
+  volume={8},
+  number={9},
+  pages={e20477},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{Bernard2020Feb,
+	author = {Bernard, Tara Siegel and Hsu, Tiffany and Perlroth, Nicole and Lieber, Ron},
+	title = {{Equifax Says Cyberattack May Have Affected 143 Million in the U.S.}},
+	journal = {N.Y. Times},
+	year = {2020},
+	month = {Feb},
+	issn = {0362-4331},
+	publisher = {The New York Times Company},
+	url = {https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html}
+}
+@article{collins2011organizational,
+  title={Organizational Data Breaches 2005-2010: Applying SCP to the Healthcare and Education Sectors.},
+  author={Collins, Jason D and Sainato, Vincenzo A and Khey, David N},
+  journal={International Journal of Cyber Criminology},
+  volume={5},
+  number={1},
+  year={2011}
+}
+@article{garg2020covid,
+  title={COVID-19: prolonged social distancing implementation strategy using blockchain-based movement passes},
+  author={Garg, Chandan and Bansal, Agam and Padappayil, Rana Prathap},
+  journal={Journal of Medical Systems},
+  volume={44},
+  number={9},
+  pages={1--3},
+  year={2020},
+  publisher={Springer}
+}
+@article{beck2020predicting,
+  title={Predicting commercially available antiviral drugs that may act on the novel coronavirus (SARS-CoV-2) through a drug-target interaction deep learning model},
+  author={Beck, Bo Ram and Shin, Bonggun and Choi, Yoonjung and Park, Sungsoo and Kang, Keunsoo},
+  journal={Computational and structural biotechnology journal},
+  volume={18},
+  pages={784--790},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{heiser2020identification,
+  title={Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2},
+  author={Heiser, Katie and McLean, Peter F and Davis, Chadwick T and Fogelson, Ben and Gordon, Hannah B and Jacobson, Pamela and Hurst, Brett and Miller, Ben and Alfa, Ronald W and Earnshaw, Berton A and others},
+  journal={BioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{tang2020ai,
+  title={AI-aided design of novel targeted covalent inhibitors against SARS-CoV-2},
+  author={Tang, Bowen and He, Fengming and Liu, Dongpeng and Fang, Meijuan and Wu, Zhen and Xu, Dong},
+  journal={BioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+@article{vamathevan2019applications,
+  title={Applications of machine learning in drug discovery and development},
+  author={Vamathevan, Jessica and Clark, Dominic and Czodrowski, Paul and Dunham, Ian and Ferran, Edgardo and Lee, George and Li, Bin and Madabhushi, Anant and Shah, Parantu and Spitzer, Michaela and others},
+  journal={Nature Reviews Drug Discovery},
+  volume={18},
+  number={6},
+  pages={463--477},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{lu2020genomic,
+  title={Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding},
+  author={Lu, Roujian and Zhao, Xiang and Li, Juan and Niu, Peihua and Yang, Bo and Wu, Honglong and Wang, Wenling and Song, Hao and Huang, Baoying and Zhu, Na and others},
+  journal={The lancet},
+  volume={395},
+  number={10224},
+  pages={565--574},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{zhou2009single,
+  title={Single-reaction genomic amplification accelerates sequencing and vaccine production for classical and Swine origin human influenza a viruses},
+  author={Zhou, Bin and Donnelly, Matthew E and Scholes, Derek T and St. George, Kirsten and Hatta, Masato and Kawaoka, Yoshihiro and Wentworth, David E},
+  journal={Journal of virology},
+  volume={83},
+  number={19},
+  pages={10309--10313},
+  year={2009},
+  publisher={Am Soc Microbiol}
+}
+@article{randhawa2020machine,
+  title={Machine learning using intrinsic genomic signatures for rapid classification of novel pathogens: COVID-19 case study},
+  author={Randhawa, Gurjit S and Soltysiak, Maximillian PM and El Roz, Hadi and de Souza, Camila PE and Hill, Kathleen A and Kari, Lila},
+  journal={Plos one},
+  volume={15},
+  number={4},
+  pages={e0232391},
+  year={2020},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@article{Heaven2020Dec,
+	author = {Heaven, Will Douglas},
+	title = {{DeepMind{'}s protein-folding AI has solved a 50-year-old grand challenge of biology}},
+	journal = {MIT Technology Review},
+	year = {2020},
+	month = {Dec},
+	publisher = {MIT Technology Review},
+	url = {https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease}
+}
+@article{liu2020computationally,
+  title={Computationally optimized SARS-CoV-2 MHC class I and II vaccine formulations predicted to target human haplotype distributions},
+  author={Liu, Ge and Carter, Brandon and Bricken, Trenton and Jain, Siddhartha and Viard, Mathias and Carrington, Mary and Gifford, David K},
+  journal={Cell systems},
+  volume={11},
+  number={2},
+  pages={131--144},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{qiao2020personalized,
+  title={Personalized workflow to identify optimal T-cell epitopes for peptide-based vaccines against COVID-19},
+  author={Qiao, Rui and Tran, Ngoc Hieu and Shan, Baozhen and Ghodsi, Ali and Li, Ming},
+  journal={arXiv preprint arXiv:2003.10650},
+  year={2020}
+}
+
+@article{rahman2020epitope,
+  title={Epitope-based chimeric peptide vaccine design against S, M and E proteins of SARS-CoV-2, the etiologic agent of COVID-19 pandemic: an in silico approach},
+  author={Rahman, M Shaminur and Hoque, M Nazmul and Islam, M Rafiul and Akter, Salma and Alam, ASM Rubayet Ul and Siddique, Mohammad Anwar and Saha, Otun and Rahaman, Md Mizanur and Sultana, Munawar and Crandall, Keith A and others},
+  journal={PeerJ},
+  volume={8},
+  pages={e9572},
+  year={2020},
+  publisher={PeerJ Inc.}
+}
+@article{prachar2020covid,
+  title={COVID-19 vaccine candidates: prediction and validation of 174 SARS-CoV-2 epitopes},
+  author={Prachar, Marek and Justesen, Sune and Steen-Jensen, Daniel Bisgaard and Thorgrimsen, Stephan and Jurgons, Erik and Winther, Ole and Bagger, Frederik Otzen},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+@article{samuel2020covid,
+  title={Covid-19 public sentiment insights and machine learning for tweets classification},
+  author={Samuel, Jim and Ali, GG and Rahman, Md and Esawi, Ek and Samuel, Yana and others},
+  journal={Information},
+  volume={11},
+  number={6},
+  pages={314},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{prabhakar2020informational,
+  title={Informational flow on Twitter--Corona virus outbreak--topic modelling approach},
+  author={Prabhakar Kaila, Dr and Prasad, Dr AV and others},
+  journal={International Journal of Advanced Research in Engineering and Technology (IJARET)},
+  volume={11},
+  number={3},
+  year={2020}
+}
+@article{cinelli2020covid,
+  title={The COVID-19 social media infodemic},
+  author={Cinelli, Matteo and Quattrociocchi, Walter and Galeazzi, Alessandro and Valensise, Carlo Michele and Brugnoli, Emanuele and Schmidt, Ana Lucia and Zola, Paola and Zollo, Fabiana and Scala, Antonio},
+  journal={Scientific Reports},
+  volume={10},
+  number={1},
+  pages={1--10},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@article{goel2020social,
+  title={Social media in the times of COVID-19},
+  author={Goel, Ashish and Gupta, Latika},
+  journal={Journal of Clinical Rheumatology},
+  year={2020},
+  publisher={Wolters Kluwer Health}
+}
+@article{schneider2020distance,
+  title={Distance learning in the era of COVID-19},
+  author={Schneider, Samantha L and Council, Martha Laurin},
+  journal={Archives of Dermatological Research},
+  pages={1--2},
+  year={2020},
+  publisher={Springer}
+}
+@article{cooper2020sir,
+  title={A SIR model assumption for the spread of COVID-19 in different communities},
+  author={Cooper, Ian and Mondal, Argha and Antonopoulos, Chris G},
+  journal={Chaos, Solitons \& Fractals},
+  volume={139},
+  pages={110057},
+  year={2020},
+  publisher={Elsevier}
+}
+@inproceedings{calafiore2020modified,
+  title={A modified SIR model for the COVID-19 contagion in Italy},
+  author={Calafiore, Giuseppe C and Novara, Carlo and Possieri, Corrado},
+  booktitle={2020 59th IEEE Conference on Decision and Control (CDC)},
+  pages={3889--3894},
+  year={2020},
+  organization={IEEE}
+}
+@article{shen2020logistic,
+  title={Logistic growth modelling of COVID-19 proliferation in China and its international implications},
+  author={Shen, Christopher Y},
+  journal={International Journal of Infectious Diseases},
+  volume={96},
+  pages={582--589},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{he2020seir,
+  title={SEIR modeling of the COVID-19 and its dynamics},
+  author={He, Shaobo and Peng, Yuexi and Sun, Kehui},
+  journal={Nonlinear dynamics},
+  volume={101},
+  number={3},
+  pages={1667--1680},
+  year={2020},
+  publisher={Springer}
+}
+@article{chen2020time,
+  title={A time-dependent SIR model for COVID-19 with undetectable infected persons},
+  author={Chen, Yi-Cheng and Lu, Ping-En and Chang, Cheng-Shang and Liu, Tzu-Hsuan},
+  journal={IEEE Transactions on Network Science and Engineering},
+  volume={7},
+  number={4},
+  pages={3279--3294},
+  year={2020},
+  publisher={IEEE}
+}
+@article{simha2020simple,
+  title={A simple stochastic sir model for covid 19 infection dynamics for karnataka: Learning from europe},
+  author={Simha, Ashutosh and Prasad, R Venkatesha and Narayana, Sujay},
+  journal={arXiv preprint arXiv:2003.11920},
+  year={2020}
+}
+@article{tian2020modeling,
+  title={Modeling analysis of COVID-19 based on morbidity data in Anhui, China},
+  author={Tian, Jingjing and Wu, Jiabing and Bao, Yunting and Weng, Xiaoyu and Shi, Lei and Liu, Binbin and Yu, Xinya and Qi, Longxing and Liu, Zhirong},
+  journal={Math Biosci Eng},
+  volume={17},
+  number={4},
+  pages={2842--2852},
+  year={2020}
+}
+@article{ramos2021a,
+	title="A simple but complex enough $\theta$ -SIR type model to be used with COVID-19 real data. Application to the case of Italy.",
+	author="A.M. {Ramos} and M.R. {Ferrández} and M. {Vela-Pérez} and A.B. {Kubik} and B. {Ivorra}",
+	journal="Physica D: Nonlinear Phenomena",
+	volume="421",
+	pages="132839",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3113399713",
+	year="2021"
+}
+@article{he2020discrete,
+  title={A discrete stochastic model of the COVID-19 outbreak: Forecast and control},
+  author={He, Sha and Tang, Sanyi and Rong, Libin and others},
+  journal={Math. Biosci. Eng},
+  volume={17},
+  number={4},
+  pages={2792--2804},
+  year={2020}
+}
+@article{faranda2020modeling,
+  title={Modeling the second wave of COVID-19 infections in France and Italy via a stochastic SEIR model},
+  author={Faranda, Davide and Alberti, Tommaso},
+  journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  volume={30},
+  number={11},
+  pages={111101},
+  year={2020},
+  publisher={AIP Publishing LLC}
+}
+@article{chatterjee2020healthcare,
+  title={Healthcare impact of COVID-19 epidemic in India: A stochastic mathematical model},
+  author={Chatterjee, Kaustuv and Chatterjee, Kaushik and Kumar, Arun and Shankar, Subramanian},
+  journal={Medical Journal Armed Forces India},
+  volume={76},
+  number={2},
+  pages={147--155},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{arora2020prediction,
+  title={Prediction and analysis of COVID-19 positive cases using deep learning models: A descriptive case study of India},
+  author={Arora, Parul and Kumar, Himanshu and Panigrahi, Bijaya Ketan},
+  journal={Chaos, Solitons \& Fractals},
+  volume={139},
+  pages={110017},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{shoeibi2020automated,
+  title={Automated detection and forecasting of covid-19 using deep learning techniques: A review},
+  author={Shoeibi, Afshin and Khodatars, Marjane and Alizadehsani, Roohallah and Ghassemi, Navid and Jafari, Mahboobeh and Moridian, Parisa and Khadem, Ali and Sadeghi, Delaram and Hussain, Sadiq and Zare, Assef and others},
+  journal={arXiv preprint arXiv:2007.10785},
+  year={2020}
+}
+@article{devaraj2021forecasting,
+  title={Forecasting of COVID-19 cases using deep learning models: Is it reliable and practically significant?},
+  author={Devaraj, Jayanthi and Elavarasan, Rajvikram Madurai and Pugazhendhi, Rishi and Shafiullah, GM and Ganesan, Sumathi and Jeysree, Ajay Kaarthic and Khan, Irfan Ahmad and Hossain, Eklas},
+  journal={Results in Physics},
+  volume={21},
+  pages={103817},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{ghazaly2020novel,
+  title={Novel coronavirus forecasting model using nonlinear autoregressive artificial neural network},
+  author={Ghazaly, Nouby M and Abdel-Fattah, Muhammad A and El-Aziz, AAA and others},
+  journal={International Journal of Advanced Science and Technology},
+  volume={29},
+  number={5},
+  pages={19},
+  year={2020}
+}
+@article{rizk2020covid,
+  title={COVID-19 forecasting based on an improved interior search algorithm and multi-layer feed forward neural network},
+  author={Rizk-Allah, Rizk M and Hassanien, Aboul Ella},
+  journal={arXiv preprint arXiv:2004.05960},
+  year={2020}
+}
+@misc{BibEntry2021Aug10,
+	title = {{Tablet Temperature Screening Brochure {\textendash} IIoT and RFID for effective asset management {$\vert$} SmartX HUB}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 12. Aug. 2021]},
+	url = {https://smartxhub.com/tablet-temperature-screening-brochure/#}
+}
+@article{yusuf2021smart,
+  title={SMART IOT TECHNOLOGIES FOR COMBATING COVID-19 PANDEMIC: COVID-19 SYMPTOM DETECTION BASED ON THERMAL IMAGING SYSTEM},
+  author={Yusuf, Eddy and Syamsudin, Halim and Mohammed, MN and Ameerbakhsh, Omair Z and Al-Zubaidi, S and Al-Yousif, Shahad},
+  journal={Turkish Journal of Field Crops},
+  volume={26},
+  number={2},
+  pages={66--71},
+  year={2021}
+}
+@article{raisaro2020scor,
+  title={SCOR: A secure international informatics infrastructure to investigate COVID-19},
+  author={Raisaro, Jean Louis and Marino, Francesco and Troncoso-Pastoriza, Juan and Beau-Lejdstrom, Raphaelle and Bellazzi, Riccardo and Murphy, Robert and Bernstam, Elmer V and Wang, Henry and Bucalo, Mauro and Chen, Yong and others},
+  journal={Journal of the American Medical Informatics Association},
+  volume={27},
+  number={11},
+  pages={1721--1726},
+  year={2020},
+  publisher={Oxford University Press}
+}
+@article{rezaei2020deepsocial,
+  title={Deepsocial: Social distancing monitoring and infection risk assessment in covid-19 pandemic},
+  author={Rezaei, Mahdi and Azarmi, Mohsen},
+  journal={Applied Sciences},
+  volume={10},
+  number={21},
+  pages={7514},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@misc{RayVision2021Aug,
+	author = {RayVision},
+	title = {{Home - RayVision}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 12. Aug. 2021]},
+	url = {https://rayvision.ai}
+}
+@article{cristani2020visual,
+  title={The visual social distancing problem},
+  author={Cristani, Marco and Del Bue, Alessio and Murino, Vittorio and Setti, Francesco and Vinciarelli, Alessandro},
+  journal={IEEE Access},
+  volume={8},
+  pages={126876--126886},
+  year={2020},
+  publisher={IEEE}
+}
+@article{de2020pre,
+  title={Pre-graduation medical training including virtual reality during COVID-19 pandemic: a report on students’ perception},
+  author={De Ponti, Roberto and Marazzato, Jacopo and Maresca, Andrea M and Rovera, Francesca and Carcano, Giulio and Ferrario, Marco M},
+  journal={BMC medical education},
+  volume={20},
+  number={1},
+  pages={1--7},
+  year={2020},
+  publisher={BioMed Central}
+}
+@inproceedings{jimbo2018deep,
+  title={Deep learning-based transformation matrix estimation for bidirectional interframe prediction},
+  author={Jimbo, Satoru and Wang, Ji and Yashima, Yoshiyuki},
+  booktitle={2018 IEEE 7th Global Conference on Consumer Electronics (GCCE)},
+  pages={726--730},
+  year={2018},
+  organization={IEEE}
+}
+@article{rivenson2020emerging,
+  title={Emerging advances to transform histopathology using virtual staining},
+  author={Rivenson, Yair and de Haan, Kevin and Wallace, W Dean and Ozcan, Aydogan},
+  journal={BME Frontiers},
+  volume={2020},
+  year={2020},
+  publisher={Science Partner Journal}
+}
+@article{de2020deep,
+  title={Deep learning-based transformation of the H\&E stain into special stains improves kidney disease diagnosis},
+  author={de Haan, Kevin and Zhang, Yijie and Liu, Tairan and Sisk, Anthony E and Diaz, Miguel FP and Zuckerman, Jonathan E and Rivenson, Yair and Wallace, W Dean and Ozcan, Aydogan},
+  journal={arXiv preprint arXiv:2008.08871},
+  year={2020}
+}
+@article{li2021novel,
+  title={A novel multiple instance learning framework for COVID-19 severity assessment via data augmentation and self-supervised learning},
+  author={Li, Zekun and Zhao, Wei and Shi, Feng and Qi, Lei and Xie, Xingzhi and Wei, Ying and Ding, Zhongxiang and Gao, Yang and Wu, Shangjie and Liu, Jun and others},
+  journal={Medical Image Analysis},
+  volume={69},
+  pages={101978},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{chih20165g,
+  title={5G: rethink mobile communications for 2020+},
+  author={Chih-Lin, I and Han, Shuangfeng and Xu, Zhikun and Sun, Qi and Pan, Zhengang},
+  journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume={374},
+  number={2062},
+  pages={20140432},
+  year={2016},
+  publisher={The Royal Society Publishing}
+}
+@article{kapiciouglu2019reliability,
+  title={The reliability of use of WhatsApp in type 1 and type 2 pediatric supracondylar fractures.},
+  author={Kap{\i}c{\i}o{\u{g}}lu, Mehmet and Erden, Tunay and A{\u{g}}{\i}r, Muzaffer and K{\"u}{\c{c}}{\"u}kdurmaz, Fatih},
+  year={2019}
+}
+@article{stahl2019reliability,
+  title={Reliability of smartphone-based instant messaging application for diagnosis, classification, and decision-making in pediatric orthopedic trauma},
+  author={Stahl, Ido and Katsman, Alexander and Zaidman, Michael and Keshet, Doron and Sigal, Amit and Eidelman, Mark},
+  journal={Pediatric emergency care},
+  volume={35},
+  number={6},
+  pages={403--406},
+  year={2019},
+  publisher={LWW}
+}
+@article{stahl2017reliability,
+  title={Reliability of smartphone-based teleradiology for evaluating thoracolumbar spine fractures},
+  author={Stahl, Ido and Dreyfuss, Daniel and Ofir, Dror and Merom, Lior and Raichel, Michael and Hous, Nir and Norman, Doron and Haddad, Elias},
+  journal={The Spine Journal},
+  volume={17},
+  number={2},
+  pages={161--167},
+  year={2017},
+  publisher={Elsevier}
+}
+@article{kachare2020telesurgical,
+  title={Telesurgical assessment: using smartphone messaging to efficiently manage postoperative wounds},
+  author={Kachare, Milind D and Rossi, Alexander J and Donohue, Kristen D and Davidov, Tomer},
+  journal={Telemedicine and e-Health},
+  volume={26},
+  number={12},
+  pages={1540--1542},
+  year={2020},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}
+@article{kim2016predicting,
+  title={Predicting the use of smartphone-based Augmented Reality (AR): Does telepresence really help?},
+  author={Kim, Hyeon-Cheol and Hyun, Martin Yongho},
+  journal={Computers in Human Behavior},
+  volume={59},
+  pages={28--38},
+  year={2016},
+  publisher={Elsevier}
+}
+@article{greenfield2018demonstration,
+  title={Demonstration of the effectiveness of augmented reality telesurgery in complex hand reconstruction in Gaza},
+  author={Greenfield, Max J and Luck, Joshua and Billingsley, Michael L and Heyes, Richard and Smith, Oliver J and Mosahebi, Afshin and Khoussa, Abu and Abu-Sittah, Ghassan and Hachach-Haram, Nadine},
+  journal={Plastic and Reconstructive Surgery Global Open},
+  volume={6},
+  number={3},
+  year={2018},
+  publisher={Wolters Kluwer Health}
+}
+@article{dores2020use,
+  title={The use of new digital information and communication technologies in psychological counseling during the COVID-19 pandemic},
+  author={Dores, Artemisa R and Geraldo, Andreia and Carvalho, Irene P and Barbosa, Fernando},
+  journal={International journal of environmental research and public health},
+  volume={17},
+  number={20},
+  pages={7663},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{maurya2021digital,
+  title={Digital Contact Tracing for Covid 19},
+  author={Maurya, Chandresh Kumar and Jain, Seemandhar and Thakre, Vishal},
+  journal={arXiv preprint arXiv:2105.15030},
+  year={2021}
+}
+@inproceedings{sun2021empirical,
+  title={An empirical assessment of global COVID-19 contact tracing applications},
+  author={Sun, Ruoxi and Wang, Wei and Xue, Minhui and Tyson, Gareth and Camtepe, Seyit and Ranasinghe, Damith C},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)},
+  pages={1085--1097},
+  year={2021},
+  organization={IEEE}
+}
+@article{cho2020contact,
+  title={Contact tracing mobile apps for COVID-19: Privacy considerations and related trade-offs},
+  author={Cho, Hyunghoon and Ippolito, Daphne and Yu, Yun William},
+  journal={arXiv preprint arXiv:2003.11511},
+  year={2020}
+}
+@article{ahmed2020survey,
+  title={A survey of COVID-19 contact tracing apps},
+  author={Ahmed, Nadeem and Michelin, Regio A and Xue, Wanli and Ruj, Sushmita and Malaney, Robert and Kanhere, Salil S and Seneviratne, Aruna and Hu, Wen and Janicke, Helge and Jha, Sanjay K},
+  journal={IEEE access},
+  volume={8},
+  pages={134577--134601},
+  year={2020},
+  publisher={IEEE}
+}
+@article{li2020covid,
+  title={COVID-19 contact-tracing apps: A survey on the global deployment and challenges},
+  author={Li, Jinfeng and Guo, Xinyi},
+  journal={arXiv preprint arXiv:2005.03599},
+  year={2020}
+}
+@article{tang2020privacy,
+  title={Privacy-preserving contact tracing: current solutions and open questions},
+  author={Tang, Qiang},
+  journal={arXiv preprint arXiv:2004.06818},
+  year={2020}
+}
+@phdthesis{cunche2020using,
+  title={On using Bluetooth-Low-Energy for contact tracing},
+  author={Cunche, Mathieu and Boutet, Antoine and Castelluccia, Claude and Lauradoux, C{\'e}dric and Roca, Vincent},
+  year={2020},
+  school={Inria Grenoble Rh{\^o}ne-Alpes; INSA de Lyon}
+}
+@inproceedings{zhao2020accuracy,
+  title={On the accuracy of measured proximity of Bluetooth-based contact tracing apps},
+  author={Zhao, Qingchuan and Wen, Haohuang and Lin, Zhiqiang and Xuan, Dong and Shroff, Ness},
+  booktitle={International Conference on Security and Privacy in Communication Systems},
+  pages={49--60},
+  year={2020},
+  organization={Springer}
+}
+@article{bay2020bluetrace,
+  title={BlueTrace: A privacy-preserving protocol for community-driven contact tracing across borders},
+  author={Bay, Jason and Kek, Joel and Tan, Alvin and Hau, Chai Sheng and Yongquan, Lai and Tan, Janice and Quy, Tang Anh},
+  journal={Government Technology Agency-Singapore, Tech. Rep},
+  year={2020}
+}
+@article{diffie1976new,
+  title={New directions in cryptography},
+  author={Diffie, Whitfield and Hellman, Martin},
+  journal={IEEE transactions on Information Theory},
+  volume={22},
+  number={6},
+  pages={644--654},
+  year={1976},
+  publisher={IEEE}
+}
+@article{aisec2020pandemic,
+  title={Pandemic Contact Tracing Apps: DP-3T, PEPP-PT NTK, and ROBERT from a Privacy Perspective.},
+  author={AISEC, Fraunhofer},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={489},
+  year={2020}
+}
+@article{sapiezynski2017inferring,
+  title={Inferring person-to-person proximity using WiFi signals},
+  author={Sapiezynski, Piotr and Stopczynski, Arkadiusz and Wind, David Kofoed and Leskovec, Jure and Lehmann, Sune},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={1},
+  number={2},
+  pages={1--20},
+  year={2017},
+  publisher={ACM New York, NY, USA}
+}
+@article{liu2013face,
+  title={Face-to-face proximity estimationusing bluetooth on smartphones},
+  author={Liu, Shu and Jiang, Yingxin and Striegel, Aaron},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={13},
+  number={4},
+  pages={811--823},
+  year={2013},
+  publisher={IEEE}
+}
+@article{li2018indoor,
+  title={Indoor positioning algorithm based on the improved RSSI distance model},
+  author={Li, Guoquan and Geng, Enxu and Ye, Zhouyang and Xu, Yongjun and Lin, Jinzhao and Pang, Yu},
+  journal={Sensors},
+  volume={18},
+  number={9},
+  pages={2820},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{malaney2007nuisance,
+  title={Nuisance parameters and location accuracy in log-normal fading models},
+  author={Malaney, Robert A},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={6},
+  number={3},
+  pages={937--947},
+  year={2007},
+  publisher={IEEE}
+}
+@article{ramirez2019using,
+  title={Using machine learning to uncover hidden heterogeneities in survey data},
+  author={Ramirez, Christina M and Abrajano, Marisa A and Alvarez, R Michael},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={1--11},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{kern2019tree,
+  title={Tree-based machine learning methods for survey research},
+  author={Kern, Christoph and Klausch, Thomas and Kreuter, Frauke},
+  booktitle={Survey research methods},
+  volume={13},
+  number={1},
+  pages={73},
+  year={2019},
+  organization={NIH Public Access}
+}
+@article{glynn2014effectiveness,
+  title={Effectiveness of a smartphone application to promote physical activity in primary care: the SMART MOVE randomised controlled trial},
+  author={Glynn, Liam G and Hayes, Patrick S and Casey, Monica and Glynn, Fergus and Alvarez-Iglesias, Alberto and Newell, John and {\'O}Laighin, Gear{\'o}id and Heaney, David and O’Donnell, Martin and Murphy, Andrew W},
+  journal={British Journal of General Practice},
+  volume={64},
+  number={624},
+  pages={e384--e391},
+  year={2014},
+  publisher={British Journal of General Practice}
+}
+@article{yoo2020toward,
+  title={Toward automated severe pharyngitis detection with smartphone camera using deep learning networks},
+  author={Yoo, Tae Keun and Choi, Joon Yul and Jang, Younil and Ryu, Ik Hee},
+  journal={Computers in biology and medicine},
+  volume={125},
+  pages={103980},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{himmelreich2019diagnostic,
+  title={Diagnostic accuracy of a smartphone-operated, single-lead electrocardiography device for detection of rhythm and conduction abnormalities in primary care},
+  author={Himmelreich, Jelle CL and Karregat, Evert PM and Lucassen, Wim AM and van Weert, Henk CPM and de Groot, Joris R and Handoko, M Louis and Nijveldt, Robin and Harskamp, Ralf E},
+  journal={The Annals of Family Medicine},
+  volume={17},
+  number={5},
+  pages={403--411},
+  year={2019},
+  publisher={Annals Family Med}
+}
+@article{stasak2021automatic,
+  title={Automatic Detection of COVID-19 Based on Short-Duration Acoustic Smartphone Speech Analysis},
+  author={Stasak, Brian and Huang, Zhaocheng and Razavi, Sabah and Joachim, Dale and Epps, Julien},
+  journal={Journal of Healthcare Informatics Research},
+  volume={5},
+  number={2},
+  pages={201--217},
+  year={2021},
+  publisher={Springer}
+}
+@article{heile2020automated,
+  title={Automated Insulin Delivery: Easy Enough to Use in Primary Care?},
+  author={Heile, Michael and Hollstegge, Betty and Broxterman, Laura and Cai, Albert and Close, Kelly},
+  journal={Clinical Diabetes},
+  volume={38},
+  number={5},
+  pages={474--485},
+  year={2020},
+  publisher={Am Diabetes Assoc}
+}
+@article{porter2021diagnosing,
+  title={Diagnosing community-acquired pneumonia via a smartphone-based algorithm: a prospective cohort study in primary and acute-care consultations},
+  author={Porter, Paul and Brisbane, Joanna and Abeyratne, Udantha and Bear, Natasha and Wood, Javan and Peltonen, Vesa and Della, Phillip and Smith, Claire and Claxton, Scott},
+  journal={British Journal of General Practice},
+  volume={71},
+  number={705},
+  pages={e258--e265},
+  year={2021},
+  publisher={British Journal of General Practice}
+}
+@article{braithwaite2020automated,
+  title={Automated and partly automated contact tracing: a systematic review to inform the control of COVID-19},
+  author={Braithwaite, Isobel and Callender, Thomas and Bullock, Miriam and Aldridge, Robert W},
+  journal={The Lancet Digital Health},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{cui2020coaid,
+  title={Coaid: Covid-19 healthcare misinformation dataset},
+  author={Cui, Limeng and Lee, Dongwon},
+  journal={arXiv preprint arXiv:2006.00885},
+  year={2020}
+}
+@misc{BibEntry2020Aug20,
+	title = {{COVID19 India Tracker Web App}},
+	journal = {COVID19 India tracker},
+	year = {2020},
+	month = {Aug},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://www.coronatracker.in}
+}
+@misc{BibEntry2021Aug21,
+	title = {{AI powered iThermo wins IPOS Innovation For Humanity Award}},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://www.ihis.com.sg/Latest_News/Media_Releases/Pages/ai-powered-ithermo-wins-ipos-innovation-for-humanity-award.aspx}
+}
+@misc{BibEntry2020Feb,
+	title = {{SPHCC and Yitu develop AI-powered Intelligent Evaluation System of Chest CT for COVID-19}},
+	journal = {MobiHealthNews},
+	year = {2020},
+	month = {Feb},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://www.mobihealthnews.com/news/apac/sphcc-and-yitu-develop-ai-powered-intelligent-evaluation-system-chest-ct-covid-19}
+}
+@article{mishra2020pre,
+  title={Pre-symptomatic detection of COVID-19 from smartwatch data},
+  author={Mishra, Tejaswini and Wang, Meng and Metwally, Ahmed A and Bogu, Gireesh K and Brooks, Andrew W and Bahmani, Amir and Alavi, Arash and Celli, Alessandra and Higgs, Emily and Dagan-Rosenfeld, Orit and others},
+  journal={Nature biomedical engineering},
+  volume={4},
+  number={12},
+  pages={1208--1220},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@misc{BibEntry2020Mar2,
+	title = {{Scripps Launches App-Based Study Using Wearable Data to Predict Virus Outbreaks}},
+	year = {2020},
+	month = {Mar},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://hitconsultant.net/2020/03/25/detect-study-wearable-data-detection-viral-illness/#.YRzMSYgvPct}
+}
+@misc{BibEntry2021Jun,
+	title = {{UCSF TemPredict Study - The Pulse Blog}},
+	journal = {Pulse Blog},
+	year = {2021},
+	month = {Jun},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://ouraring.com/blog/ucsf-tempredict-study}
+}
+@article{zalsman2021suicide,
+  title={Suicide-related calls to a national crisis chat hotline service during the COVID-19 pandemic and lockdown},
+  author={Zalsman, Gil and Levy, Yael and Sommerfeld, Eliane and Segal, Avi and Assa, Dana and Ben-Dayan, Loona and Valevski, Avi and Mann, J John},
+  journal={Journal of psychiatric research},
+  year={2021},
+  publisher={Elsevier}
+}
+@misc{BibEntry2021Aug50,
+	title = {{Praekelt.org}},
+	journal = {Praekelt},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://www.praekelt.org}
+}
+@misc{BibEntry2020Feb4,
+	title = {{Telehealth Devices {\&} Equipment - Vici {$\vert$} InTouch Health}},
+	journal = {InTouch Health},
+	year = {2020},
+	month = {Feb},
+	note = {[Online; accessed 18. Aug. 2021]},
+	url = {https://intouchhealth.com/telehealth-devices/intouch-vici}
+}
+@article{darbyshire2021monitoring,
+  title={Monitoring sound levels in the intensive care unit: a mixed-methods system development project to optimize design features for a new electronic interface in the healthcare environment},
+  author={Darbyshire, Julie L and Greig, Paul R and Hinton, Lisa and Young, J Duncan},
+  journal={International Journal of Medical Informatics},
+  pages={104538},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{saseedharan2021smart,
+  title={Smart secretion management to protect nurses from COVID19 and other infectious diseases},
+  author={Saseedharan, Sanjith and Karanam, Roopa and Kadam, Vaijayanti and Shirsekar, Suvarna},
+  journal={Nursing in Critical Care},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+@article{gadekallu2020deep,
+  title={Deep neural networks to predict diabetic retinopathy},
+  author={Gadekallu, Thippa Reddy and Khare, Neelu and Bhattacharya, Sweta and Singh, Saurabh and Maddikunta, Praveen Kumar Reddy and Srivastava, Gautam},
+  journal={Journal Of Ambient Intelligence and Humanized Computing},
+  pages={1--14},
+  year={2020},
+  publisher={Springer}
+}
+
+@article{gadekallu2020early,
+  title={Early detection of diabetic retinopathy using PCA-firefly based deep learning model},
+  author={Gadekallu, Thippa Reddy and Khare, Neelu and Bhattacharya, Sweta and Singh, Saurabh and Maddikunta, Praveen Kumar Reddy and Ra, In-Ho and Alazab, Mamoun},
+  journal={Electronics},
+  volume={9},
+  number={2},
+  pages={274},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+
+@article{han2015rodent,
+  title={Rodent reservoirs of future zoonotic diseases},
+  author={Han, Barbara A and Schmidt, John Paul and Bowden, Sarah E and Drake, John M},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={112},
+  number={22},
+  pages={7039--7044},
+  year={2015},
+  publisher={National Acad Sciences}
+}
+
+
+@article{gillies2016radiomics,
+  title={Radiomics: images are more than pictures, they are data},
+  author={Gillies, Robert J and Kinahan, Paul E and Hricak, Hedvig},
+  journal={Radiology},
+  volume={278},
+  number={2},
+  pages={563--577},
+  year={2016},
+  publisher={Radiological Society of North America}
+}
+
+@article{abdmeziem2016architecting,
+  title={Architecting the internet of things: state of the art},
+  author={Abdmeziem, Mohammed Riyadh and Tandjaoui, Djamel and Romdhani, Imed},
+  journal={Robots and Sensor Clouds},
+  pages={55--75},
+  year={2016},
+  publisher={Springer}
+}
+@inproceedings{al2016iot,
+  title={IoT architecture challenges and issues: Lack of standardization},
+  author={Al-Qaseemi, Sarah A and Almulhim, Hajer A and Almulhim, Maria F and Chaudhry, Saqib Rasool},
+  booktitle={2016 Future technologies conference (FTC)},
+  pages={731--738},
+  year={2016},
+  organization={IEEE}
+}
+
+@misc{BibEntry2013Jun,
+	title = {{The internet of things}},
+	journal = {Forbes},
+	year = {2013},
+	month = {Jun},
+	publisher = {Forbes},
+	note = {[Online; accessed 20. Aug. 2021]},
+	url = {https://www.forbes.com/global/2002/0318/092.html?sh=69ef99343c3e}
+}
+
+@article{pierleoni2019amazon,
+  title={Amazon, Google and Microsoft solutions for IoT: architectures and a performance comparison},
+  author={Pierleoni, Paola and Concetti, Roberto and Belli, Alberto and Palma, Lorenzo},
+  journal={IEEE access},
+  volume={8},
+  pages={5455--5470},
+  year={2019},
+  publisher={IEEE}
+}
+@book{iqbal2020enabling,
+  title={Enabling the Internet of Things: Fundamentals, Design and Applications},
+  author={Iqbal, Muhammad Azhar and Hussain, Sajjad and Xing, Huanlai and Imran, Muhammad Ali},
+  year={2020},
+  publisher={John Wiley \& Sons}
+}
+
+@article{miorandi2012internet,
+  title={Internet of things: Vision, applications and research challenges},
+  author={Miorandi, Daniele and Sicari, Sabrina and De Pellegrini, Francesco and Chlamtac, Imrich},
+  journal={Ad hoc networks},
+  volume={10},
+  number={7},
+  pages={1497--1516},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{singh2021software,
+  title={Software system to predict the infection in COVID-19 patients using deep learning and web of things},
+  author={Singh, Ashima and Kaur, Amrita and Dhillon, Arwinder and Ahuja, Sahil and Vohra, Harpreet},
+  journal={Software: Practice and Experience},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+
+@article{aarab2021covid,
+  title={Covid-19 context-aware WSN approach},
+  author={Aarab, Z and El Ghazi, A and El Fellah, S and Lagdali, S and Lafkih, M and Lyazidi, A},
+  journal={ARPN Journal of Engineering and Applied Sciences},
+  pages={810--816},
+  year={2021}
+}
+
+@article{beland2020covid,
+  title={COVID-19, stay-at-home orders and employment: Evidence from CPS data},
+  author={Beland, Louis-Philippe and Brodeur, Abel and Wright, Taylor},
+  year={2020},
+  publisher={IZA Discussion Paper}
+}
+
+@article{adardour2021embedded,
+  title={Embedded System Prototype to Fight Covid-19 Pandemic Contamination with Less Cost},
+  author={Adardour, HE and Hadjila, M and Irid, SMH and Hachemi, MH and Benikhlef, M and Benotmane, I},
+  journal={Wireless Personal Communications},
+  pages={1--28},
+  year={2021},
+  publisher={Springer}
+}
+
+@inproceedings{florea2020implementing,
+  title={Implementing an embedded system to identify possible COVID-19 suspects using thermovision cameras},
+  author={Florea, Adrian and Fleaca, Valentin},
+  booktitle={2020 24th International Conference on System Theory, Control and Computing (ICSTCC)},
+  pages={322--327},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{jaya2020role,
+  title={The Role of Less Contact Technology in the Covid-19 Pandemic},
+  author={Jaya, Hendra and Thaief, Ilham and Suhardi, Iwan and Gunawan, Satria},
+  booktitle={International Conference on Science and Advanced Technology (ICSAT)},
+  year={2020}
+}
+
+@article{mubashar2021comparative,
+  title={Comparative performance analysis of short-range wireless protocols for wireless personal area network},
+  author={Mubashar, Rehman and Siddique, Muhammad Abu Bakar and Rehman, Ateeq Ur and Asad, Adeel and Rasool, Asad},
+  journal={Iran Journal of Computer Science},
+  pages={1--10},
+  year={2021},
+  publisher={Springer}
+}
+@misc{BibEntry2021Aug30,
+	title = {{mHealth {$\vert$} Statista}},
+	journal = {Statista},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 23. Aug. 2021]},
+	url = {https://www.statista.com/study/24501/mhealth-statista-dossier}
+}
+@article{park2020out,
+  title={Out-of-hospital cohort treatment of coronavirus disease 2019 patients with mild symptoms in Korea: an experience from a single community treatment center},
+  author={Park, Peong Gang and Kim, Chang Hyup and Heo, Yoon and Kim, Tae Suk and Park, Chan Woo and Kim, Choong-Hyo},
+  journal={Journal of Korean medical science},
+  volume={35},
+  number={13},
+  year={2020},
+  publisher={The Korean Academy of Medical Sciences}
+}
+@article{dini2020bedside,
+  title={Bedside wireless lung ultrasound for the evaluation of COVID-19 lung injury in senior nursing home residents},
+  author={Dini, Frank Lloyd and Bergamini, Carlo and Allegrini, Aldo and Scopelliti, Massimo and Secco, Gianmarco and Miccoli, Mario and Boni, Stefano and Brigada, Raffaella and Perlini, Stefano},
+  journal={Monaldi Archives for Chest Disease},
+  volume={90},
+  number={3},
+  year={2020}
+}
+@article{gedel2021low,
+  title={Low Latency 5G Distributed Wireless Network Architecture: A Techno-Economic Comparison},
+  author={Gedel, Ibrahim Alhassan and Nwulu, Nnamdi I},
+  journal={Inventions},
+  volume={6},
+  number={1},
+  pages={11},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{hoeschele2021importance,
+  title={Importance of Internet Exchange Point (IXP) infrastructure for 5G: Estimating the impact of 5G use cases},
+  author={Hoeschele, Thomas and Dietzel, Christoph and Kopp, Daniel and Fitzek, Frank HP and Reisslein, Martin},
+  journal={Telecommunications Policy},
+  volume={45},
+  number={3},
+  pages={102091},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{attaran2021impact,
+  title={The impact of 5G on the evolution of intelligent automation and industry digitization},
+  author={Attaran, Mohsen},
+  journal={Journal of Ambient Intelligence and Humanized Computing},
+  pages={1--17},
+  year={2021},
+  publisher={Springer}
+}
+@inproceedings{chen2011brief,
+  title={A brief introduction to IoT gateway},
+  author={Chen, Hao and Jia, Xueqin and Li, Heng},
+  booktitle={IET international conference on communication technology and application (ICCTA 2011)},
+  pages={610--613},
+  year={2011},
+  organization={IET}
+}
+@article{yacchirema2021safemobility,
+  title={SafeMobility: An IoT-based System for safer mobility using machine learning in the age of COVID-19},
+  author={Yacchirema, Diana and Chura, Arturo},
+  journal={Procedia Computer Science},
+  volume={184},
+  pages={524--531},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{sethi2017internet,
+  title={Internet of things: architectures, protocols, and applications},
+  author={Sethi, Pallavi and Sarangi, Smruti R},
+  journal={Journal of Electrical and Computer Engineering},
+  volume={2017},
+  year={2017},
+  publisher={Hindawi}
+}
+@inproceedings{singh2021cloud,
+  title={Cloud Computing and Covid-19},
+  author={Singh, Raju},
+  booktitle={2021 3rd International Conference on Signal Processing and Communication (ICPSC)},
+  pages={552--557},
+  year={2021},
+  organization={IEEE}
+}
+@misc{BibEntry2021Jun20,
+	title = {{Which is Better For My Business, Dedicated Server Hosting or Cloud Hosting?}},
+	journal = {Liquid Web},
+	year = {2021},
+	month = {Jun},
+	note = {[Online; accessed 27. Aug. 2021]},
+	url = {https://www.liquidweb.com/blog/dedicated-server-hosting-or-cloud-hosting}
+}
+@misc{BibEntry2020Mar20,
+	title = {{What is Cloud Hosting {\&} How is it Different from Cloud Computing}},
+	journal = {KnownHost},
+	year = {2020},
+	month = {Mar},
+	note = {[Online; accessed 27. Aug. 2021]},
+	url = {https://www.knownhost.com/blog/difference-cloud-hosting-cloud-computing-saas}
+}
+@article{voas2009cloud,
+  title={Cloud computing: New wine or just a new bottle?},
+  author={Voas, Jeffrey and Zhang, Jia},
+  journal={IT professional},
+  volume={11},
+  number={2},
+  pages={15--17},
+  year={2009},
+  publisher={IEEE}
+}
+@book{furht2010handbook,
+  title={Handbook of cloud computing},
+  author={Furht, Borivoje and Escalante, Armando and others},
+  volume={3},
+  year={2010},
+  publisher={Springer}
+}
+@article{cacovean2020iot,
+  title={IoT system in diagnosis of Covid-19 patients},
+  author={Cacovean, Dan and Ioana, Irina and Nitulescu, Gabriela},
+  journal={Informatica Economica},
+  volume={24},
+  number={2},
+  pages={75--89},
+  year={2020},
+  publisher={INFOREC Association}
+}
+
+@article{kanade2020medical,
+  title={Medical Assistant Robot ARM for COVID-19 Patients Treatment--A Raspberry Pi Project},
+  author={Kanade, Prakash and Kanade, Sunay},
+  journal={International Research Journal of Engineering and Technology (IRJET)},
+  volume={7},
+  number={10},
+  pages={105--111},
+  year={2020}
+}
+
+@article{hosny2021covid,
+  title={COVID-19 diagnosis from CT scans and chest X-ray images using low-cost Raspberry Pi},
+  author={Hosny, Khalid M and Darwish, Mohamed M and Li, Kenli and Salah, Ahmad},
+  journal={Plos one},
+  volume={16},
+  number={5},
+  pages={e0250688},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{faezipour2020smartphone,
+  title={Smartphone-based self-testing of COVID-19 using breathing sounds},
+  author={Faezipour, Miad and Abuzneid, Abdelshakour},
+  journal={Telemedicine and e-Health},
+  volume={26},
+  number={10},
+  pages={1202--1205},
+  year={2020},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}
+@article{saponara2021implementing,
+  title={Implementing a real-time, AI-based, people detection and social distancing measuring system for Covid-19},
+  author={Saponara, Sergio and Elhanashi, Abdussalam and Gagliardi, Alessio},
+  journal={Journal of Real-Time Image Processing},
+  pages={1--11},
+  year={2021},
+  publisher={Springer}
+}
+@article{balamurugan2021design,
+  title={Design of Ventilator Using Arduino for Covid Pandemic},
+  author={Balamurugan, CR and Kasthuri, A and Malathi, E and Dharanidharan, S and Hariharan, D and Kishore, BV and Venkadesh, T},
+  journal={Annals of the Romanian Society for Cell Biology},
+  pages={14530--14533},
+  year={2021}
+}
+@article{jorge2021cpu,
+  title={A CPU-FPGA heterogeneous approach for biological sequence comparison using high-level synthesis},
+  author={Jorge, Carlos AC and Nery, Alexandre S and Melo, Alba CMA and Goldman, Alfredo},
+  journal={Concurrency and Computation: Practice and Experience},
+  volume={33},
+  number={4},
+  pages={e6007},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+@article{kajabad2019people,
+  title={People detection and finding attractive areas by the use of movement detection analysis and deep learning approach},
+  author={Kajabad, Ebrahim Najafi and Ivanov, Sergey V},
+  journal={Procedia Computer Science},
+  volume={156},
+  pages={327--337},
+  year={2019},
+  publisher={Elsevier}
+}
+@article{brunetti2018computer,
+  title={Computer vision and deep learning techniques for pedestrian detection and tracking: A survey},
+  author={Brunetti, Antonio and Buongiorno, Domenico and Trotta, Gianpaolo Francesco and Bevilacqua, Vitoantonio},
+  journal={Neurocomputing},
+  volume={300},
+  pages={17--33},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{manfredi2014detection,
+  title={Detection of static groups and crowds gathered in open spaces by texture classification},
+  author={Manfredi, Marco and Vezzani, Roberto and Calderara, Simone and Cucchiara, Rita},
+  journal={Pattern Recognition Letters},
+  volume={44},
+  pages={39--48},
+  year={2014},
+  publisher={Elsevier}
+}
+@article{phelan2020novel,
+  title={The novel coronavirus originating in Wuhan, China: challenges for global health governance},
+  author={Phelan, Alexandra L and Katz, Rebecca and Gostin, Lawrence O},
+  journal={Jama},
+  volume={323},
+  number={8},
+  pages={709--710},
+  year={2020},
+  publisher={American Medical Association}
+}
+@article{ahmed2021social,
+  title={Social distance monitoring framework using deep learning architecture to control infection transmission of COVID-19 pandemic},
+  author={Ahmed, Imran and Ahmad, Misbah and Jeon, Gwanggil},
+  journal={Sustainable Cities and Society},
+  volume={69},
+  pages={102777},
+  year={2021},
+  publisher={Elsevier}
+}
+@inproceedings{qureshi2009object,
+  title={Object-video streams for preserving privacy in video surveillance},
+  author={Qureshi, Faisal Z},
+  booktitle={2009 Sixth IEEE International Conference on Advanced Video and Signal Based Surveillance},
+  pages={442--447},
+  year={2009},
+  organization={IEEE}
+}
+@inproceedings{park2005track,
+  title={A track-based human movement analysis and privacy protection system adaptive to environmental contexts},
+  author={Park, Sangho and Trivedi, Mohan M},
+  booktitle={IEEE Conference on Advanced Video and Signal Based Surveillance, 2005.},
+  pages={171--176},
+  year={2005},
+  organization={IEEE}
+}
+@article{yang2021vision,
+  title={A vision-based social distancing and critical density detection system for COVID-19},
+  author={Yang, Dongfang and Yurtsever, Ekim and Renganathan, Vishnu and Redmill, Keith A and {\"O}zg{\"u}ner, {\"U}mit},
+  journal={Sensors},
+  volume={21},
+  number={13},
+  pages={4608},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{alam2021iresponse,
+  title={IResponse: An AI and IoT-enabled framework for autonomous COVID-19 pandemic management},
+  author={Alam, Furqan and Almaghthawi, Ahmed and Katib, Iyad and Albeshri, Aiiad and Mehmood, Rashid},
+  journal={Sustainability},
+  volume={13},
+  number={7},
+  pages={3797},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{gupta2020enabling,
+  title={Enabling and enforcing social distancing measures using smart city and its infrastructures: a COVID-19 Use case},
+  author={Gupta, Maanak and Abdelsalam, Mahmoud and Mittal, Sudip},
+  journal={arXiv preprint arXiv:2004.09246},
+  year={2020}
+}
+@misc{kai2020universal,
+      title={Universal Masking is Urgent in the COVID-19 Pandemic: SEIR and Agent Based Models, Empirical Validation, Policy Recommendations}, 
+      author={De Kai and Guy-Philippe Goldstein and Alexey Morgunov and Vishal Nangalia and Anna Rotkirch},
+      year={2020},
+      eprint={2004.13553},
+      archivePrefix={arXiv},
+      primaryClass={physics.soc-ph}
+}
+@article{silva2020covid,
+  title={COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions},
+  author={Silva, Petr{\^o}nio CL and Batista, Paulo VC and Lima, H{\'e}lder S and Alves, Marcos A and Guimar{\~a}es, Frederico G and Silva, Rodrigo CP},
+  journal={Chaos, Solitons \& Fractals},
+  volume={139},
+  pages={110088},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{jaswal2020ai,
+  title={AI-Biometric-Driven Smartphone App for Strict Post-COVID Home Quarantine Management},
+  author={Jaswal, Gaurav and Bharadwaj, Rohit and Tiwari, Kamlesh and Thapar, Daksh and Goyal, Piyush and Nigam, Aditya},
+  journal={IEEE Consumer Electronics Magazine},
+  volume={10},
+  number={3},
+  pages={49--55},
+  year={2020},
+  publisher={IEEE}
+}
+@article{xu2020monitoring,
+  title={Monitoring and Management of Home-Quarantined Patients with COVID-19 using a WeChat-based telemedicine system: retrospective cohort study},
+  author={Xu, Hui and Huang, Sufang and Qiu, Chun and Liu, Shangkun and Deng, Juan and Jiao, Bo and Tan, Xi and Ai, Ling and Xiao, Yaru and Belliato, Mirko and others},
+  journal={Journal of medical Internet research},
+  volume={22},
+  number={7},
+  pages={e19514},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{adly2020approaches,
+  title={Approaches based on artificial intelligence and the internet of intelligent things to prevent the spread of COVID-19: scoping review},
+  author={Adly, Aya Sedky and Adly, Afnan Sedky and Adly, Mahmoud Sedky},
+  journal={Journal of medical Internet research},
+  volume={22},
+  number={8},
+  pages={e19104},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{el2020quarantine,
+  title={E-quarantine: A smart health system for monitoring coronavirus patients for remotely quarantine},
+  author={El-Din, Doaa Mohey and Hassanein, Aboul Ella and Hassanien, Ehab E and Hussein, Walaa ME},
+  journal={arXiv preprint arXiv:2005.04187},
+  year={2020}
+}
+@article{dobrea2020autonomous,
+  title={An autonomous UAV system for video monitoring of the quarantine zones},
+  author={Dobrea, Dan-Marius and Dobrea, Monica-Claudia},
+  journal={Roman J Inf Sci Technol},
+  volume={23},
+  pages={S53},
+  year={2020}
+}
+@inproceedings{maghded2020novel,
+  title={A novel AI-enabled framework to diagnose coronavirus COVID-19 using smartphone embedded sensors: design study},
+  author={Maghded, Halgurd S and Ghafoor, Kayhan Zrar and Sadiq, Ali Safaa and Curran, Kevin and Rawat, Danda B and Rabie, Khaled},
+  booktitle={2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI)},
+  pages={180--187},
+  year={2020},
+  organization={IEEE}
+}
+@article{li2021wi,
+	title="Wi-COVID: A COVID-19 Symptom Detection and Patient Monitoring Framework using WiFi.",
+	author="Fangyu {Li} and Maria {Valero} and Hossain {Shahriar} and Rumi Ahmed {Khan} and Sheikh Iqbal {Ahamed}",
+	journal="Smart Health",
+	volume="19",
+	pages="100147--100147",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3110260799",
+	year="2021"
+}
+@article{tedeschi2021iotrace,
+  title={IoTRace: A flexible, efficient, and privacy-preserving IoT-enabled architecture for contact tracing},
+  author={Tedeschi, Pietro and Bakiras, Spiridon and Di Pietro, Roberto},
+  journal={IEEE Communications Magazine},
+  volume={59},
+  number={6},
+  pages={82--88},
+  year={2021},
+  publisher={IEEE}
+}
+@article{mohammed2020novel,
+  title={Novel COVID-19 detection and diagnosis system using IOT based smart helmet},
+  author={Mohammed, MN and Syamsudin, Halim and Al-Zubaidi, S and AKS, Ramli R and Yusuf, Eddy},
+  journal={International Journal of Psychosocial Rehabilitation},
+  volume={24},
+  number={7},
+  pages={2296--2303},
+  year={2020}
+}
+@article{nayak2021application,
+  title={Application of deep learning techniques for detection of COVID-19 cases using chest X-ray images: A comprehensive study},
+  author={Nayak, Soumya Ranjan and Nayak, Deepak Ranjan and Sinha, Utkarsh and Arora, Vaibhav and Pachori, Ram Bilas},
+  journal={Biomedical Signal Processing and Control},
+  volume={64},
+  pages={102365},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{ullah2021wearable,
+  title={Wearable IoTs and Geo-Fencing Based Framework for COVID-19 Remote Patient Health Monitoring and Quarantine Management to Control the Pandemic},
+  author={Ullah, Farman and Haq, Hassan Ul and Khan, Jebran and Safeer, Arslan Ali and Asif, Usman and Lee, Sungchang},
+  journal={Electronics},
+  volume={10},
+  number={16},
+  pages={2035},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{ullah2021framework,
+  title={A Framework for Maternal Physical Activities and Health Monitoring Using Wearable Sensors},
+  author={Ullah, Farman and Iqbal, Asif and Iqbal, Sumbul and Kwak, Daehan and Anwar, Hafeez and Khan, Ajmal and Ullah, Rehmat and Siddique, Huma and Kwak, Kyung-Sup},
+  journal={Sensors},
+  volume={21},
+  number={15},
+  pages={4949},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{punn2020monitoring,
+  title={Monitoring COVID-19 social distancing with person detection and tracking via fine-tuned YOLO v3 and Deepsort techniques},
+  author={Punn, Narinder Singh and Sonbhadra, Sanjay Kumar and Agarwal, Sonali and Rai, Gaurav},
+  journal={arXiv preprint arXiv:2005.01385},
+  year={2020}
+}
+@article{motolese2020parkinson,
+  title={Parkinson's disease remote patient monitoring during the COVID-19 lockdown},
+  author={Motolese, Francesco and Magliozzi, Alessandro and Puttini, Fiorella and Rossi, Mariagrazia and Capone, Fioravante and Karlinski, Keren and Stark-Inbar, Alit and Yekutieli, Ziv and Di Lazzaro, Vincenzo and Marano, Massimo},
+  journal={Frontiers in neurology},
+  volume={11},
+  pages={1190},
+  year={2020},
+  publisher={Frontiers}
+}
+@article{naik2020real,
+  title={Real-time smart patient monitoring and assessment amid COVID-19 pandemic--an alternative approach to remote monitoring},
+  author={Naik, B Naveen and Gupta, Rekha and Singh, Ajay and Soni, Shiv Lal and Puri, GD},
+  journal={Journal of Medical Systems},
+  volume={44},
+  number={7},
+  pages={1--2},
+  year={2020},
+  publisher={Springer}
+}
+@article{taiwo2020smart,
+  title={Smart healthcare support for remote patient monitoring during covid-19 quarantine},
+  author={Taiwo, Olutosin and Ezugwu, Absalom E},
+  journal={Informatics in medicine unlocked},
+  volume={20},
+  pages={100428},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{nangalia2010health,
+  title={Health technology assessment review: Remote monitoring of vital signs-current status and future challenges},
+  author={Nangalia, Vishal and Prytherch, David R and Smith, Gary B},
+  journal={Critical Care},
+  volume={14},
+  number={5},
+  pages={1--8},
+  year={2010},
+  publisher={Springer}
+}
+@article{esposito2021data,
+  title={Data-Driven Epidemic Intelligence Strategies Based on Digital Proximity Tracing Technologies in the Fight against COVID-19 in Cities},
+  author={Esposito, Dario and Dipierro, Giovanni and Sonnessa, Alberico and Santoro, Stefania and Pascazio, Simona and Pluchinotta, Irene},
+  journal={Sustainability},
+  volume={13},
+  number={2},
+  pages={644},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{saeed2020body,
+  title={Body-Centric Terahertz Networks: Prospects and Challenges},
+  author={Saeed, Nasir and Loukil, Mohamed Habib and Sarieddeen, Hadi and Al-Naffouri, Tareq Y and Alouini, Mohamed-Slim},
+  year={2020}
+}
+@article{tao2020non,
+  title={Non-contact, non-destructive testing in various industrial sectors with terahertz technology},
+  author={Tao, Yu Heng and Fitzgerald, Anthony J and Wallace, Vincent P},
+  journal={Sensors},
+  volume={20},
+  number={3},
+  pages={712},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{ahmadivand2021functionalized,
+  title={Functionalized terahertz plasmonic metasensors: Femtomolar-level detection of SARS-CoV-2 spike proteins},
+  author={Ahmadivand, Arash and Gerislioglu, Burak and Ramezani, Zeinab and Kaushik, Ajeet and Manickam, Pandiaraj and Ghoreishi, S Amir},
+  journal={Biosensors and Bioelectronics},
+  volume={177},
+  pages={112971},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{almeida2021terahertz,
+  title={Terahertz Spectroscopy Applied to Diagnostics in Public Health: A Review},
+  author={Almeida, Meila Bastos de and Schiavo, Let{\'\i}cia and Esmanhoto, Elis and Lenz, Cesar Antonio and Rocha, Jaime and Loureiro, Marcelo and Kmetiuk, Louise Bach and Biondo, Alexander Welker and Barros, Ivan Roque de},
+  journal={Brazilian Archives of Biology and Technology},
+  volume={64},
+  year={2021},
+  publisher={SciELO Brasil}
+}
+
+@article{denina2020lung,
+  title={Lung ultrasound in children with COVID-19},
+  author={Denina, Marco and Scolfaro, Carlo and Silvestro, Erika and Pruccoli, Giulia and Mignone, Federica and Zoppo, Marisa and Ramenghi, Ugo and Garazzino, Silvia},
+  journal={Pediatrics},
+  volume={146},
+  number={1},
+  year={2020},
+  publisher={Am Acad Pediatrics}
+}
+
+@article{kalafat2020lung,
+  title={Lung ultrasound and computed tomographic findings in pregnant woman with COVID-19},
+  author={Kalafat, E and Yaprak, E and Cinar, G and Varli, B and Ozisik, S and Uzun, C and Azap, A and Koc, A},
+  journal={Ultrasound in Obstetrics \& Gynecology},
+  volume={55},
+  number={6},
+  pages={835--837},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+@inproceedings{islam2020uav,
+  title={UAV radar sensing of respiratory variations for COVID-type disorders},
+  author={Islam, Shekh MM and Grado, Christian and Lubecke, Victor and Lubecke, Lana C},
+  booktitle={2020 IEEE Asia-Pacific Microwave Conference (APMC)},
+  pages={737--739},
+  year={2020},
+  organization={IEEE}
+}
+@article{rehman2021rf,
+  title={RF Sensing Based Breathing Patterns Detection Leveraging USRP Devices},
+  author={Rehman, Mubashir and Shah, Raza Ali and Khan, Muhammad Bilal and AbuAli, Najah Abed and Shah, Syed Aziz and Yang, Xiaodong and Alomainy, Akram and Imran, Muhmmad Ali and Abbasi, Qammer H},
+  journal={Sensors},
+  volume={21},
+  number={11},
+  pages={3855},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{saeed2021wireless,
+  title={Wireless Channel Modelling for Identifying Six Types of Respiratory Patterns with SDR Sensing and Deep Multilayer Perceptron},
+  author={Saeed, Umer and Shah, Syed Yaseen and Zahid, Adnan and Ahmad, Jawad and Imran, Muhammad Ali and Abbasi, Qammer H and Shah, Syed Aziz},
+  journal={IEEE Sensors Journal},
+  year={2021},
+  publisher={IEEE}
+}
+@article{narin2021automatic,
+  title={Automatic detection of coronavirus disease (covid-19) using x-ray images and deep convolutional neural networks},
+  author={Narin, Ali and Kaya, Ceren and Pamuk, Ziynet},
+  journal={Pattern Analysis and Applications},
+  pages={1--14},
+  year={2021},
+  publisher={Springer}
+}
+@article{rehman2021real,
+  title={Real-time diagnosis system of COVID-19 using X-ray images and deep learning},
+  author={Rehman, Amjad and Sadad, Tariq and Saba, Tanzila and Hussain, Ayyaz and Tariq, Usman},
+  journal={IT Professional},
+  volume={23},
+  number={4},
+  pages={57--62},
+  year={2021},
+  publisher={IEEE}
+}
+@article{shah2021diagnosis,
+  title={Diagnosis of COVID-19 using CT scan images and deep learning techniques},
+  author={Shah, Vruddhi and Keniya, Rinkal and Shridharani, Akanksha and Punjabi, Manav and Shah, Jainam and Mehendale, Ninad},
+  journal={Emergency radiology},
+  volume={28},
+  number={3},
+  pages={497--505},
+  year={2021},
+  publisher={Springer}
+}
+@article{ahuja2021deep,
+  title={Deep transfer learning-based automated detection of COVID-19 from lung CT scan slices},
+  author={Ahuja, Sakshi and Panigrahi, Bijaya Ketan and Dey, Nilanjan and Rajinikanth, Venkatesan and Gandhi, Tapan Kumar},
+  journal={Applied Intelligence},
+  volume={51},
+  number={1},
+  pages={571--585},
+  year={2021},
+  publisher={Springer}
+}
+@article{sathyamoorthy2020covid,
+  title={COVID-robot: Monitoring social distancing constraints in crowded scenarios},
+  author={Sathyamoorthy, Adarsh Jagan and Patel, Utsav and Savle, Yash Ajay and Paul, Moumita and Manocha, Dinesh},
+  journal={arXiv preprint arXiv:2008.06585},
+  year={2020}
+}
+
+@article{wyche2021changes,
+  title={Changes in ambient air quality and atmospheric composition and reactivity in the South East of the UK as a result of the COVID-19 lockdown},
+  author={Wyche, KP and Nichols, Mark and Parfitt, Harley and Beckett, Paul and Gregg, DJ and Smallbone, KL and Monks, PS},
+  journal={Science of the Total Environment},
+  volume={755},
+  pages={142526},
+  year={2021},
+  publisher={Elsevier}
+}
+
+
+@article{yao2021ambient,
+  title={Ambient nitrogen dioxide pollution and spreadability of COVID-19 in Chinese cities},
+  author={Yao, Ye and Pan, Jinhua and Liu, Zhixi and Meng, Xia and Wang, Weidong and Kan, Haidong and Wang, Weibing},
+  journal={Ecotoxicology and environmental safety},
+  volume={208},
+  pages={111421},
+  year={2021},
+  publisher={Elsevier}
+}
+@inproceedings{petrovic2020simulation,
+  title={Simulation environment for optimal resource planning during covid-19 crisis},
+  author={Petrovi{\'c}, Nenad},
+  booktitle={2020 55th International Scientific Conference on Information, Communication and Energy Systems and Technologies (ICEST)},
+  pages={23--26},
+  year={2020},
+  organization={IEEE}
+}
+@article{wang2020abnormal,
+  title={Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner},
+  author={Wang, Yunlu and Hu, Menghan and Li, Qingli and Zhang, Xiao-Ping and Zhai, Guangtao and Yao, Nan},
+  journal={arXiv preprint arXiv:2002.05534},
+  year={2020}
+}
+@misc{BibEntry2021Aug40,
+	title = {{67+ Revealing Statistics about Smartphone Usage in 2021}},
+	journal = {TechJury},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 4. Sep. 2021]},
+	url = {https://techjury.net/blog/smartphone-usage-statistics}
+}
+@misc{BibEntry2021Aug41,
+	title = {{Bahrain, Kuwait and Norway contact tracing apps a danger for privacy}},
+	journal = {Amnesty International},
+	year = {2021},
+	month = {Aug},
+	note = {[Online; accessed 4. Sep. 2021]},
+	url = {https://www.amnesty.org/en/latest/news/2020/06/bahrain-kuwait-norway-contact-tracing-apps-danger-for-privacy}
+}
+@misc{BibEntry2021Sep20,
+	title = {{Page Not Found {$\vert$} The Guardian}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 4. Sep. 2021]},
+	url = {https://www.theguardian.com/world/2020/may/27/qatar-contact-tracing-app-1m-people-sensitive-data-at-risk-coronavirus-covid-19+}
+}
+@inproceedings{celosia2019fingerprinting,
+  title={Fingerprinting bluetooth-low-energy devices based on the generic attribute profile},
+  author={Celosia, Guillaume and Cunche, Mathieu},
+  booktitle={Proceedings of the 2nd International ACM Workshop on Security and Privacy for the Internet-of-Things},
+  pages={24--31},
+  year={2019}
+}
+@inproceedings{zuo2019automatic,
+  title={Automatic fingerprinting of vulnerable ble iot devices with static uuids from mobile apps},
+  author={Zuo, Chaoshun and Wen, Haohuang and Lin, Zhiqiang and Zhang, Yinqian},
+  booktitle={Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={1469--1483},
+  year={2019}
+}
+@inproceedings{wen2020study,
+  title={A study of the privacy of covid-19 contact tracing apps},
+  author={Wen, Haohuang and Zhao, Qingchuan and Lin, Zhiqiang and Xuan, Dong and Shroff, Ness},
+  booktitle={International Conference on Security and Privacy in Communication Systems},
+  pages={297--317},
+  year={2020},
+  organization={Springer}
+}
+@article{troncoso2020decentralized,
+  title={Decentralized privacy-preserving proximity tracing},
+  author={Troncoso, Carmela and Payer, Mathias and Hubaux, Jean-Pierre and Salath{\'e}, Marcel and Larus, James and Bugnion, Edouard and Lueks, Wouter and Stadler, Theresa and Pyrgelis, Apostolos and Antonioli, Daniele and others},
+  journal={arXiv preprint arXiv:2005.12273},
+  year={2020}
+}
+@techreport{vaudenay2020analysis,
+  title={Analysis of DP3T-Between Scylla and Charybdis},
+  author={Vaudenay, Serge},
+  year={2020}
+}
+@inproceedings{ryan2013bluetooth,
+  title={Bluetooth: With low energy comes low security},
+  author={Ryan, Mike},
+  booktitle={7th $\{$USENIX$\}$ Workshop on Offensive Technologies ($\{$WOOT$\}$ 13)},
+  year={2013}
+}
+@inproceedings{das2016uncovering,
+  title={Uncovering privacy leakage in ble network traffic of wearable fitness trackers},
+  author={Das, Aveek K and Pathak, Parth H and Chuah, Chen-Nee and Mohapatra, Prasant},
+  booktitle={Proceedings of the 17th International Workshop on Mobile Computing Systems and Applications},
+  pages={99--104},
+  year={2016}
+}
+@inproceedings{chen2017locating,
+  title={Locating and tracking ble beacons with smartphones},
+  author={Chen, Dongyao and Shin, Kang G and Jiang, Yurong and Kim, Kyu-Han},
+  booktitle={Proceedings of the 13th International Conference on emerging Networking EXperiments and Technologies},
+  pages={263--275},
+  year={2017}
+}
+@article{legendre2020contact,
+  title={Contact tracing: An overview of technologies and cyber risks},
+  author={Legendre, Franck and Humbert, Mathias and Mermoud, Alain and Lenders, Vincent},
+  journal={arXiv preprint arXiv:2007.02806},
+  year={2020}
+}
+@inproceedings{tippenhauer2011requirements,
+  title={On the requirements for successful GPS spoofing attacks},
+  author={Tippenhauer, Nils Ole and P{\"o}pper, Christina and Rasmussen, Kasper Bonne and Capkun, Srdjan},
+  booktitle={Proceedings of the 18th ACM conference on Computer and communications security},
+  pages={75--86},
+  year={2011}
+}
+@article{sowmiya2021survey,
+  title={A Survey on Security and Privacy Issues in Contact Tracing Application of Covid-19},
+  author={Sowmiya, B and Abhijith, VS and Sudersan, S and Sundar, R Sakthi Jaya and Thangavel, M and Varalakshmi, P},
+  journal={SN computer science},
+  volume={2},
+  number={3},
+  pages={1--11},
+  year={2021},
+  publisher={Springer}
+}
+@article{leith2021measurement,
+  title={Measurement-based evaluation of google/apple exposure notification API for proximity detection in a commuter bus},
+  author={Leith, Douglas J and Farrell, Stephen},
+  journal={Plos one},
+  volume={16},
+  number={4},
+  pages={e0250826},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@article{xu2020beeptrace,
+  title={Beeptrace: Blockchain-enabled privacy-preserving contact tracing for covid-19 pandemic and beyond},
+  author={Xu, Hao and Zhang, Lei and Onireti, Oluwakayode and Fang, Yang and Buchanan, William J and Imran, Muhammad Ali},
+  journal={IEEE Internet of Things Journal},
+  volume={8},
+  number={5},
+  pages={3915--3929},
+  year={2020},
+  publisher={IEEE}
+}
+@article{an2021protect,
+  title={PROTECT: Privacy-preserving Contact Tracing for COVID-19 with Homomorphic Encryption.},
+  author={An, Yongdae and Lee, Seungmyung and Jung, Seungwoo and Park, Howard and Song, Yongsoo and Ko, Taehoon},
+  journal={Journal of Medical Internet Research},
+  year={2021}
+}
+@article{ferrag2021fighting,
+  title={Fighting COVID-19 and Future Pandemics With the Internet of Things: Security and Privacy Perspectives},
+  author={Ferrag, Mohamed Amine and Shu, Lei and Choo, Kim-Kwang Raymond},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={8},
+  number={9},
+  pages={1477--1499},
+  year={2021},
+  publisher={IEEE}
+}
+@article{liu2020privacy,
+  title={Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach.},
+  author={Liu, Joseph K and Au, Man Ho and Yuen, Tsz Hon and Zuo, Cong and Wang, Jiawei and Sakzad, Amin and Luo, Xiapu and Li, Li},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={528},
+  year={2020}
+}
+@article{sun2020vetting,
+  title={Vetting security and privacy of global covid-19 contact tracing applications},
+  author={Sun, Ruoxi and Wang, Wei and Xue, Minhui and Tyson, Gareth and Camtepe, Seyit and Ranasinghe, Damith},
+  journal={arXiv preprint arXiv:2006.10933},
+  year={2020}
+}
+
+@article{xue2016thwarting,
+  title={Thwarting location privacy protection in location-based social discovery services},
+  author={Xue, Minhui and Liu, Yong and Ross, Keith W and Qian, Haifeng},
+  journal={Security and Communication Networks},
+  volume={9},
+  number={11},
+  pages={1496--1508},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+@inproceedings{xue2016you,
+  title={You can yak but you can't hide: Localizing anonymous social network users},
+  author={Xue, Minhui and Ballard, Cameron and Liu, Kelvin and Nemelka, Carson and Wu, Yanqiu and Ross, Keith and Qian, Haifeng},
+  booktitle={Proceedings of the 2016 Internet Measurement Conference},
+  pages={25--31},
+  year={2016}
+}
+@article{pranggono2021covid,
+  title={COVID-19 pandemic cybersecurity issues},
+  author={Pranggono, Bernardi and Arabo, Abdullahi},
+  journal={Internet Technology Letters},
+  volume={4},
+  number={2},
+  pages={e247},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+@article{wieringa2005contactless,
+  title={Contactless multiple wavelength photoplethysmographic imaging: A first step toward “SpO 2 camera” technology},
+  author={Wieringa, Fokko P and Mastik, Frits and van der Steen, Antonius FW},
+  journal={Annals of biomedical engineering},
+  volume={33},
+  number={8},
+  pages={1034--1041},
+  year={2005},
+  publisher={Springer}
+}
+@inproceedings{magklaras2021review,
+  title={A review of information security aspects of the emerging COVID-19 contact tracing mobile phone applications},
+  author={Magklaras, Georgios and L{\'o}pez-Boj{\'o}rquez, Lucia N},
+  booktitle={International Symposium on Human Aspects of Information Security and Assurance},
+  pages={30--44},
+  year={2021},
+  organization={Springer}
+}
+@article{dwork2014algorithmic,
+  title={The algorithmic foundations of differential privacy.},
+  author={Dwork, Cynthia and Roth, Aaron and others},
+  journal={Found. Trends Theor. Comput. Sci.},
+  volume={9},
+  number={3-4},
+  pages={211--407},
+  year={2014}
+}
+@article{pandey2020machine,
+  title={A machine learning application for raising wash awareness in the times of covid-19 pandemic},
+  author={Pandey, Rohan and Gautam, Vaibhav and Pal, Ridam and Bandhey, Harsh and Dhingra, Lovedeep Singh and Sharma, Himanshu and Jain, Chirag and Bhagat, Kanav and Patel, Lajjaben and Agarwal, Mudit and others},
+  journal={arXiv preprint arXiv:2003.07074},
+  year={2020}
+}
+@article{rashid2020covidsens,
+	title="CovidSens: A Vision on Reliable Social Sensing based Risk Alerting Systems for COVID-19 Spread.",
+	author="Md. Tahmid {Rashid} and Dong {Wang}",
+	journal="",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3016153415",
+	year="2020"
+}
+
+@misc{kapoor2020digital,
+  title={Digital healthcare: The only solution for better healthcare during COVID-19 pandemic?},
+  author={Kapoor, Aditya and Guha, Santanu and Das, Mrinal Kanti and Goswami, Kewal C and Yadav, Rakesh},
+  year={2020},
+  publisher={Elsevier}
+}
+@misc{BibEntry2021Apr20,
+	title = {{Cybercrime To Cost The World {\ifmmode\$\else\textdollar\fi}10.5 Trillion Annually By 2025}},
+	journal = {Cybercrime Magazine},
+	year = {2021},
+	month = {Apr},
+	note = {[Online; accessed 5. Sep. 2021]},
+	url = {https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016}
+}
+@article{wheelus2020iot,
+  title={Iot network security: Threats, risks, and a data-driven defense framework},
+  author={Wheelus, Charles and Zhu, Xingquan},
+  journal={IoT},
+  volume={1},
+  number={2},
+  pages={259--285},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{sauermann2020preservation,
+  title={Preservation of individuals’ privacy in shared COVID-19 related data},
+  author={Sauermann, Stefan and Kanjala, Chifundo and Templ, Matthias and Austin, Claire C and WG, RDA-COVID19},
+  journal={Available at SSRN 3648430},
+  year={2020}
+}
+@article{idrees2021blockchain,
+  title={Blockchain-based digital contact tracing apps for COVID-19 pandemic management: Issues, challenges, solutions, and future directions},
+  author={Idrees, Sheikh Mohammad and Nowostawski, Mariusz and Jameel, Roshan},
+  journal={JMIR medical informatics},
+  volume={9},
+  number={2},
+  pages={e25245},
+  year={2021},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{gvili2020security,
+  title={Security analysis of the COVID-19 contact tracing specifications by Apple Inc. and Google Inc.},
+  author={Gvili, Yaron},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={428},
+  year={2020}
+}
+
+@misc{BibEntry2021Sep30,
+	title = {{Connected Papers {$\vert$} Find and explore academic papers}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 5. Sep. 2021]},
+	url = {https://www.connectedpapers.com}
+}
+@article{ahuja2021artificial,
+  title={Artificial Intelligence and technology in COVID Era: A narrative review},
+  author={Ahuja, Vanita and Nair, Lekshmi V},
+  journal={Journal of Anaesthesiology, Clinical Pharmacology},
+  volume={37},
+  number={1},
+  pages={28},
+  year={2021},
+  publisher={Wolters Kluwer--Medknow Publications}
+}
+@article{nag2020optical,
+  title={Optical fiber sensors for rapid screening of COVID-19},
+  author={Nag, Pooja and Sadani, Kapil and Mukherji, Soumyo},
+  journal={Transactions of the Indian National Academy of Engineering},
+  volume={5},
+  number={2},
+  pages={233--236},
+  year={2020},
+  publisher={Springer}
+}
+@article{lukose2021optical,
+  title={Optical technologies for the detection of viruses like COVID-19: Progress and prospects},
+  author={Lukose, Jijo and Chidangil, Santhosh and George, Sajan D},
+  journal={Biosensors and Bioelectronics},
+  pages={113004},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{carriere2021case,
+  title={Case Report: Utilizing AI and NLP to Assist with Healthcare and Rehabilitation During the COVID-19 Pandemic},
+  author={Carriere, Jay and Shafi, Hareem and Brehon, Katelyn and Manhas, Kiran Pohar and Churchill, Katie and Ho, Chester and Tavakoli, Mahdi},
+  journal={Frontiers in artificial intelligence},
+  volume={4},
+  year={2021},
+  publisher={Frontiers Media SA}
+}
+@inproceedings{bharti2020medbot,
+  title={Medbot: Conversational artificial intelligence powered chatbot for delivering tele-health after covid-19},
+  author={Bharti, Urmil and Bajaj, Deepali and Batra, Hunar and Lalit, Shreya and Lalit, Shweta and Gangwani, Aayushi},
+  booktitle={2020 5th International Conference on Communication and Electronics Systems (ICCES)},
+  pages={870--875},
+  year={2020},
+  organization={IEEE}
+}
+@article{Who2020Apr,
+	author = {Who, World Health Organization:},
+	title = {{WHO launches a chatbot on Facebook Messenger to combat COVID-19 misinformation}},
+	journal = {World Health Organization: WHO},
+	year = {2020},
+	month = {Apr},
+	publisher = {World Health Organization: WHO},
+	url = {https://www.who.int/news-room/feature-stories/detail/who-launches-a-chatbot-powered-facebook-messenger-to-combat-covid-19-misinformation}
+}
+@article{rodsawang2020designing,
+  title={Designing a competent chatbot to counter the covid-19 pandemic and empower risk communication in an emergency response system},
+  author={Rodsawang, Chonnatee and Thongkliang, Pongsutee and Intawong, Theeraporn and Sonong, Apisit and Thitiwatthana, Yosita and Chottanapund, Suthat},
+  journal={OSIR Journal},
+  volume={13},
+  number={2},
+  year={2020}
+}
+@article{meinert2020agile,
+  title={Agile requirements engineering and software planning for a digital health platform to engage the effects of isolation caused by social distancing: case study},
+  author={Meinert, Edward and Milne-Ives, Madison and Surodina, Svitlana and Lam, Ching and others},
+  journal={JMIR public health and surveillance},
+  volume={6},
+  number={2},
+  pages={e19297},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{yousefzadeh2021ai,
+  title={ai-corona: Radiologist-assistant deep learning framework for COVID-19 diagnosis in chest CT scans},
+  author={Yousefzadeh, Mehdi and Esfahanian, Parsa and Movahed, Seyed Mohammad Sadegh and Gorgin, Saeid and Rahmati, Dara and Abedini, Atefeh and Nadji, Seyed Alireza and Haseli, Sara and Bakhshayesh Karam, Mehrdad and Kiani, Arda and others},
+  journal={PloS one},
+  volume={16},
+  number={5},
+  pages={e0250952},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@inproceedings{hoque2021covid,
+  title={COVID-19 Mental Health AI and Robot Assistant},
+  author={Hoque, Sumya and Azhar, Mohammad and Rodriguez, Stacey},
+  booktitle={Proceedings of the 52nd ACM Technical Symposium on Computer Science Education},
+  pages={1385--1385},
+  year={2021}
+}
+@article{arsenovic2019solving,
+  title={Solving current limitations of deep learning based approaches for plant disease detection},
+  author={Arsenovic, Marko and Karanovic, Mirjana and Sladojevic, Srdjan and Anderla, Andras and Stefanovic, Darko},
+  journal={Symmetry},
+  volume={11},
+  number={7},
+  pages={939},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{chollet2017limitations,
+  title={The limitations of deep learning},
+  author={Chollet, Francois},
+  journal={Deep Learning With Python},
+  year={2017},
+  publisher={Manning Publications}
+}
+@article{kim2020limitations,
+  title={Limitations of Deep Learning Attention Mechanisms in Clinical Research: Empirical Case Study Based on the Korean Diabetic Disease Setting},
+  author={Kim, Junetae and Lee, Sangwon and Hwang, Eugene and Ryu, Kwang Sun and Jeong, Hanseok and Lee, Jae Wook and Hwangbo, Yul and Choi, Kui Son and Cha, Hyo Soung},
+  journal={Journal of Medical Internet Research},
+  volume={22},
+  number={12},
+  pages={e18418},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{alafeef2021hyperspectral,
+  title={Hyperspectral Mapping for the Detection of SARS-CoV-2 Using Nanomolecular Probes with Yoctomole Sensitivity},
+  author={Alafeef, Maha and Moitra, Parikshit and Dighe, Ketan and Pan, Dipanjan},
+  journal={ACS nano},
+  volume={15},
+  number={8},
+  pages={13742--13758},
+  year={2021},
+  publisher={ACS Publications}
+}
+@inproceedings{camilleri2017analysing,
+  title={Analysing the limitations of deep learning for developmental robotics},
+  author={Camilleri, Daniel and Prescott, Tony},
+  booktitle={conference on Biomimetic and Biohybrid Systems},
+  pages={86--94},
+  year={2017},
+  organization={Springer}
+}
+@incollection{kizrak2021limitations,
+  title={Limitations and challenges on the diagnosis of COVID-19 using radiology images and deep learning},
+  author={K{\i}zrak, Merve Ayyuce and M{\"u}ft{\"u}o{\u{g}}lu, Z{\"u}mr{\"u}t and Y{\i}ld{\i}r{\i}m, T{\"u}lay},
+  booktitle={Data Science for COVID-19},
+  pages={91--115},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{van2020covid,
+  title={COVID-19 and privacy in the European Union: A legal perspective on contact tracing},
+  author={van Kolfschooten, Hannah and de Ruijter, Anniek},
+  journal={Contemporary Security Policy},
+  volume={41},
+  number={3},
+  pages={478--491},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
+@article{seidl2012empirical,
+  title={Empirical analysis shows reduced cost data collection may be an efficient method in economic clinical trials},
+  author={Seidl, Hildegard and Meisinger, Christa and Wende, Rupert and Holle, Rolf},
+  journal={BMC health services research},
+  volume={12},
+  number={1},
+  pages={1--12},
+  year={2012},
+  publisher={Springer}
+}
+@article{miller2021reliability,
+  title={Reliability of COVID-19 data: An evaluation and reflection},
+  author={Miller, April R and Charepoo, Samin and Yan, Erik and Frost, Ryan W and Sturgeon, Zachary J and Gibbon, Grace and Balius, Patrick N and Thomas, Cedonia S and Schmitt, Melanie A and Sass, Daniel A and others},
+  journal={medRxiv},
+  year={2021},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+@article{hornik1990universal,
+  title={Universal approximation of an unknown mapping and its derivatives using multilayer feedforward networks},
+  author={Hornik, Kurt and Stinchcombe, Maxwell and White, Halbert},
+  journal={Neural networks},
+  volume={3},
+  number={5},
+  pages={551--560},
+  year={1990},
+  publisher={Elsevier}
+}
+@inproceedings{narayanan2008robust,
+  title={Robust de-anonymization of large sparse datasets},
+  author={Narayanan, Arvind and Shmatikov, Vitaly},
+  booktitle={2008 IEEE Symposium on Security and Privacy (sp 2008)},
+  pages={111--125},
+  year={2008},
+  organization={IEEE}
+}
+@inproceedings{fredrikson2015model,
+  title={Model inversion attacks that exploit confidence information and basic countermeasures},
+  author={Fredrikson, Matt and Jha, Somesh and Ristenpart, Thomas},
+  booktitle={Proceedings of the 22nd ACM SIGSAC conference on computer and communications security},
+  pages={1322--1333},
+  year={2015}
+}
+@article{kim2021can,
+  title={Can artificial intelligence and data-driven machine learning models match or even replace process-driven hydrologic models for streamflow simulation?: A case study of four watersheds with different hydro-climatic regions across the CONUS},
+  author={Kim, Taereem and Yang, Tiantian and Gao, Shang and Zhang, Lujun and Ding, Ziyu and Wen, Xin and Gourley, Jonathan J and Hong, Yang},
+  journal={Journal of Hydrology},
+  volume={598},
+  pages={126423},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{goodfellow2014explaining,
+  title={Explaining and harnessing adversarial examples},
+  author={Goodfellow, Ian J and Shlens, Jonathon and Szegedy, Christian},
+  journal={arXiv preprint arXiv:1412.6572},
+  year={2014}
+}
+@article{moreno2012unifying,
+  title={A unifying view on dataset shift in classification},
+  author={Moreno-Torres, Jose G and Raeder, Troy and Alaiz-Rodr{\'\i}guez, Roc{\'\i}o and Chawla, Nitesh V and Herrera, Francisco},
+  journal={Pattern recognition},
+  volume={45},
+  number={1},
+  pages={521--530},
+  year={2012},
+  publisher={Elsevier}
+}
+@misc{BibEntry2020Dec40,
+	title = {{Fully private open source contact tracing technology {$\vert$} Covid-19 Tracking technology}},
+	year = {2020},
+	month = {Dec},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://opencovidtrace.org}
+}
+@misc{HeraldProjectContributors2021Aug,
+	author = {{Herald Project Contributors}},
+	title = {{Herald protocol design}},
+	journal = {Herald Project},
+	year = {2021},
+	month = {Aug},
+	publisher = {Herald Project Contributors},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://heraldprox.io/protocol}
+}
+@article{castelluccia2020desire,
+  title={DESIRE: A Third Way for a European Exposure Notification System Leveraging the best of centralized and decentralized systems},
+  author={Castelluccia, Claude and Bielova, Nataliia and Boutet, Antoine and Cunche, Mathieu and Lauradoux, C{\'e}dric and M{\'e}tayer, Daniel Le and Roca, Vincent},
+  journal={arXiv preprint arXiv:2008.01621},
+  year={2020}
+}
+@article{beskorovajnov2020contra,
+  title={ConTra Corona: Contact Tracing against the Coronavirus by Bridging the Centralized-Decentralized Divide for Stronger Privacy.},
+  author={Beskorovajnov, Wasilij and D{\"o}rre, Felix and Hartung, Gunnar and Koch, Alexander and M{\"u}ller-Quade, J{\"o}rn and Strufe, Thorsten},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={505},
+  year={2020}
+}
+@article{trieu2020epione,
+  title={Epione: Lightweight contact tracing with strong privacy},
+  author={Trieu, Ni and Shehata, Kareem and Saxena, Prateek and Shokri, Reza and Song, Dawn},
+  journal={arXiv preprint arXiv:2004.13293},
+  year={2020}
+}
+@misc{BibEntry2021Sep24,
+	title = {{ROBERT -- ROBust and privacy-presERving proximity Tracing protocol}},
+	journal = {GitHub},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://github.com/ROBERT-proximity-tracing}
+}
+@article{tedeschi2020spreadmenot,
+  title={SpreadMeNot: A Provably Secure and Privacy-Preserving Contact Tracing Protocol},
+  author={Tedeschi, Pietro and Bakiras, Spiridon and Di Pietro, Roberto},
+  journal={arXiv preprint arXiv:2011.07306},
+  year={2020}
+}
+@misc{Inc.2021Sep,
+	author = {Inc., Apple},
+	title = {{Exposure Notification - Apple Developer}},
+	journal = {Apple Developer},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://developer.apple.com/exposure-notification}
+}
+@misc{Inc.2021Sep2,
+	author = {Inc., Apple},
+	title = {{Exposure Notification - Apple Developer}},
+	journal = {Apple Developer},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://developer.apple.com/exposure-notification}
+}
+@misc{3rd-ways-for-E.U.-exposure-notification2021Sep,
+	author = {3rd-ways-for-E. U.-exposure-notification},
+	title = {{project-DESIRE}},
+	journal = {GitHub},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://github.com/3rd-ways-for-EU-exposure-notification/project-DESIRE}
+}
+@misc{BibEntry2021Sep49,
+	title = {{The OpenTracing project}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://opentracing.io}
+}
+@misc{BibEntry2021Sep51,
+	title = {{PACT: Private Automated Contact Tracing}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://pact.mit.edu}
+}
+@misc{Dp-3t2021Sep,
+	author = {Dp-3t},
+	title = {{documents}},
+	journal = {GitHub},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://github.com/DP-3T/documents}
+}
+@misc{BibEntry2021Sep52,
+	title = {{DocSend - Simple, intelligent, modern content sending}},
+	journal = {DocSend},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://nodle.docsend.com/view/nis3dac}
+}
+@misc{BibEntry2021Sep53,
+	title = {{PEPP-PT}},
+	journal = {GitHub},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://github.com/pepp-pt}
+}
+@misc{BibEntry2020Sep54,
+	title = {{Viratrace}},
+	year = {2020},
+	month = {Sep},
+	note = {[Online; accessed 9. Sep. 2021]},
+	url = {https://www.viratrace.org/#}
+}
+@article{sitorus2021measurement,
+  title={Measurement push and pull forces on automatic liquid dispensers.},
+  author={Sitorus, Agustami and Pramono, Eko K and Siregar, Yusnan H and Rahayuningtyas, Ari and Susanti, Novita D and Cebro, Irwin S and Bulan, Ramayanty},
+  journal={International Journal of Electrical \& Computer Engineering (2088-8708)},
+  volume={11},
+  number={6},
+  year={2021}
+}
+@article{carraro2021skel,
+  title={Skel﻿ etal muscle weakness in older adults home-restricted due to COVID-19 pandemic: a role for full-body in-bed gym and functional electrical stimulation},
+  author={Carraro, Ugo and Marcante, Andrea and Ravara, Barbara and Albertin, Giovanna and Maccarone, Maria Chiara and Piccione, Francesco and Kern, Helmut and Masiero, Stefano},
+  journal={Aging Clinical and Experimental Research},
+  pages={1--7},
+  year={2021},
+  publisher={Springer}
+}
+@article{burgess2021effect,
+  title={Effect of neuromuscular electrical stimulation on the recovery of people with COVID-19 admitted to the intensive care unit: A narrative review.},
+  author={Burgess, Louise C and Venugopalan, Lalitha and Badger, James and Street, Tamsyn and Alon, Gad and Jarvis, Jonathan C and Wainwright, Thomas W and Everington, Tamara and Taylor, Paul and Swain, Ian D},
+  journal={Journal of rehabilitation medicine},
+  volume={53},
+  number={3},
+  year={2021}
+}
+@article{gopesh2021vacuum,
+  title={Vacuum exhausted isolation locker (VEIL) to reduce inpatient droplet/aerosol transmission during COVID-19 pandemic},
+  author={Gopesh, Tilvawala and Grant, Alex M and Wen, Jessica H and Wen, Teresa H and Criado-Hidalgo, Ernesto and Connacher, William J and Friend, James R and Morris, Timothy A},
+  journal={Infection Control \& Hospital Epidemiology},
+  pages={1--10},
+  year={2021},
+  publisher={Cambridge University Press}
+}
+@article{hsu2020aerosol,
+  title={Aerosol containment box to the rescue: extra protection for the front line},
+  author={Hsu, Steven H and Lai, Hsien Yung and Zabaneh, Firas and Masud, Faisal N},
+  journal={Emergency Medicine Journal},
+  volume={37},
+  number={7},
+  pages={400--401},
+  year={2020},
+  publisher={BMJ Publishing Group Ltd and the British Association for Accident~…}
+}
+@article{gupta2020negative,
+  title={Negative pressure aerosol containment box: An innovation to reduce COVID-19 infection risk in healthcare workers},
+  author={Gupta, Vivek and Sahani, Ashish and Mohan, Bishav and Wander, GS},
+  journal={Journal of Anaesthesiology, Clinical Pharmacology},
+  volume={36},
+  number={Suppl 1},
+  pages={S144},
+  year={2020},
+  publisher={Wolters Kluwer--Medknow Publications}
+}
+
+@article{parupudi2020evidence,
+  title={Evidence-based point-of-care technology development during the COVID-19 pandemic},
+  author={Parupudi, Tejasvi and Panchagnula, Neha and Muthukumar, Sriram and Prasad, Shalini},
+  journal={Biotechniques},
+  volume={70},
+  number={1},
+  pages={58--67},
+  year={2020},
+  publisher={Future Science}
+}
+@article{dimitrievski2021towards,
+  title={Towards Detecting Pneumonia Progression in COVID-19 Patients by Monitoring Sleep Disturbance Using Data Streams of Non-Invasive Sensor Networks},
+  author={Dimitrievski, Ace and Zdravevski, Eftim and Lameski, Petre and Villasana, Mar{\'\i}a Vanessa and Miguel Pires, Ivan and Garcia, Nuno M and Fl{\'o}rez-Revuelta, Francisco and Trajkovik, Vladimir},
+  journal={Sensors},
+  volume={21},
+  number={9},
+  pages={3030},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@misc{BibEntry2021Sep80,
+	title = {{Requirements for coronavirus disease 2019 (COVID-19) apps - Play Console Help}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 11. Sep. 2021]},
+	url = {https://support.google.com/googleplay/android-developer/answer/9889712?hl=en}
+}
+@article{martin2020demystifying,
+  title={Demystifying COVID-19 digital contact tracing: A survey on frameworks and mobile apps},
+  author={Martin, Tania and Karopoulos, Georgios and Hern{\'a}ndez-Ramos, Jos{\'e} L and Kambourakis, Georgios and Nai Fovino, Igor},
+  journal={Wireless Communications and Mobile Computing},
+  volume={2020},
+  year={2020},
+  publisher={Hindawi}
+}
+@article{bali2021survey,
+  title={Survey of Smartphone Contact-Tracing Apps Architectures},
+  author={Bali, Agunjal Kaur and Dwivedi, Rinky},
+  journal={Available at SSRN 3834223},
+  year={2021}
+}
+@article{albeshri2021svsl,
+  title={SVSL: A Human Activity Recognition Method Using Soft-Voting and Self-Learning},
+  author={Albeshri, Aiiad},
+  journal={Algorithms},
+  volume={14},
+  number={8},
+  pages={245},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{marblestone2016toward,
+  title={Toward an integration of deep learning and neuroscience},
+  author={Marblestone, Adam H and Wayne, Greg and Kording, Konrad P},
+  journal={Frontiers in computational neuroscience},
+  volume={10},
+  pages={94},
+  year={2016},
+  publisher={Frontiers}
+}
+@article{kapoor2020examining,
+  title={Examining covid-19 forecasting using spatio-temporal graph neural networks},
+  author={Kapoor, Amol and Ben, Xue and Liu, Luyang and Perozzi, Bryan and Barnes, Matt and Blais, Martin and O'Banion, Shawn},
+  journal={arXiv preprint arXiv:2007.03113},
+  year={2020}
+}
+@article{shahid2020predictions,
+  title={Predictions for COVID-19 with deep learning models of LSTM, GRU and Bi-LSTM},
+  author={Shahid, Farah and Zameer, Aneela and Muneeb, Muhammad},
+  journal={Chaos, Solitons \& Fractals},
+  volume={140},
+  pages={110212},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{suzuki2020machine,
+  title={Machine learning model estimating number of COVID-19 infection cases over coming 24 days in every province of South Korea (XGBoost and MultiOutputRegressor)},
+  author={Suzuki, Yoshiro and Suzuki, Ayaka and Nakamura, Shun and Ishikawa, Toshiko and Kinoshita, Akira},
+  journal={medRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+@article{d2021enhancing,
+  title={Enhancing COVID-19 tracking apps with human activity recognition using a deep convolutional neural network and HAR-images},
+  author={D’Angelo, Gianni and Palmieri, Francesco},
+  journal={Neural Computing and Applications},
+  pages={1--17},
+  year={2021},
+  publisher={Springer}
+}
+@article{fahmigunawan2020human,
+  title={Human Activity Recognition (HAR) Computer Vision System using Deep Learning-Based Detection Corona (Covid-19) for People Mobilization},
+  author={FahmiGunawan, Muhammad and Pongrekun, Pekra Mardi and others},
+  journal={PalArch's Journal of Archaeology of Egypt/Egyptology},
+  volume={17},
+  number={5},
+  pages={515--524},
+  year={2020}
+}
+@article{rustam2020covid,
+  title={COVID-19 future forecasting using supervised machine learning models},
+  author={Rustam, Furqan and Reshi, Aijaz Ahmad and Mehmood, Arif and Ullah, Saleem and On, Byung-Won and Aslam, Waqar and Choi, Gyu Sang},
+  journal={IEEE access},
+  volume={8},
+  pages={101489--101499},
+  year={2020},
+  publisher={IEEE}
+}
+@article{ebadi2021understanding,
+  title={Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing},
+  author={Ebadi, Ashkan and Xi, Pengcheng and Tremblay, St{\'e}phane and Spencer, Bruce and Pall, Raman and Wong, Alexander},
+  journal={Scientometrics},
+  volume={126},
+  number={1},
+  pages={725--739},
+  year={2021},
+  publisher={Springer}
+}
+@inproceedings{voorhees2021trec,
+  title={TREC-COVID: constructing a pandemic information retrieval test collection},
+  author={Voorhees, Ellen and Alam, Tasmeer and Bedrick, Steven and Demner-Fushman, Dina and Hersh, William R and Lo, Kyle and Roberts, Kirk and Soboroff, Ian and Wang, Lucy Lu},
+  booktitle={ACM SIGIR Forum},
+  volume={54},
+  number={1},
+  pages={1--12},
+  year={2021},
+  organization={ACM New York, NY, USA}
+}
+@article{esteva2021covid,
+  title={COVID-19 information retrieval with deep-learning based semantic search, question answering, and abstractive summarization},
+  author={Esteva, Andre and Kale, Anuprit and Paulus, Romain and Hashimoto, Kazuma and Yin, Wenpeng and Radev, Dragomir and Socher, Richard},
+  journal={NPJ digital medicine},
+  volume={4},
+  number={1},
+  pages={1--9},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@article{su2020caire,
+  title={CAiRE-COVID: a question answering and query-focused multi-document summarization system for covid-19 scholarly information management},
+  author={Su, Dan and Xu, Yan and Yu, Tiezheng and Siddique, Farhad Bin and Barezi, Elham J and Fung, Pascale},
+  journal={arXiv preprint arXiv:2005.03975},
+  year={2020}
+}
+@article{stebbing2020covid,
+  title={COVID-19: combining antiviral and anti-inflammatory treatments},
+  author={Stebbing, Justin and Phelan, Anne and Griffin, Ivan and Tucker, Catherine and Oechsle, Olly and Smith, Dan and Richardson, Peter},
+  journal={The Lancet Infectious Diseases},
+  volume={20},
+  number={4},
+  pages={400--402},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{wang2019paperrobot,
+  title={Paperrobot: Incremental draft generation of scientific ideas},
+  author={Wang, Qingyun and Huang, Lifu and Jiang, Zhiying and Knight, Kevin and Ji, Heng and Bansal, Mohit and Luan, Yi},
+  journal={arXiv preprint arXiv:1905.07870},
+  year={2019}
+}
+@inproceedings{ilievski2020kgtk,
+  title={KGTK: a toolkit for large knowledge graph manipulation and analysis},
+  author={Ilievski, Filip and Garijo, Daniel and Chalupsky, Hans and Divvala, Naren Teja and Yao, Yixiang and Rogers, Craig and Li, Ronpeng and Liu, Jun and Singh, Amandeep and Schwabe, Daniel and others},
+  booktitle={International Semantic Web Conference},
+  pages={278--293},
+  year={2020},
+  organization={Springer}
+}
+@article{wise2020covid,
+  title={COVID-19 knowledge graph: accelerating information retrieval and discovery for scientific literature},
+  author={Wise, Colby and Ioannidis, Vassilis N and Calvo, Miguel Romero and Song, Xiang and Price, George and Kulkarni, Ninad and Brand, Ryan and Bhatia, Parminder and Karypis, George},
+  journal={arXiv preprint arXiv:2007.12731},
+  year={2020}
+}
+@article{alam2020fighting,
+  title={Fighting the COVID-19 infodemic in social media: a holistic perspective and a call to arms},
+  author={Alam, Firoj and Dalvi, Fahim and Shaar, Shaden and Durrani, Nadir and Mubarak, Hamdy and Nikolov, Alex and Martino, Giovanni Da San and Abdelali, Ahmed and Sajjad, Hassan and Darwish, Kareem and others},
+  journal={arXiv preprint arXiv:2007.07996},
+  year={2020}
+}
+@article{gururangan2020don,
+  title={Don't stop pretraining: adapt language models to domains and tasks},
+  author={Gururangan, Suchin and Marasovi{\'c}, Ana and Swayamdipta, Swabha and Lo, Kyle and Beltagy, Iz and Downey, Doug and Smith, Noah A},
+  journal={arXiv preprint arXiv:2004.10964},
+  year={2020}
+}
+@article{hettiarachchi2020infominer,
+  title={Infominer at wnut-2020 task 2: Transformer-based covid-19 informative tweet extraction},
+  author={Hettiarachchi, Hansi and Ranasinghe, Tharindu},
+  journal={arXiv preprint arXiv:2010.05327},
+  year={2020}
+}
+@misc{BibEntry2021Apr35,
+	title = {{ImageNet Large Scale Visual Recognition Competition 2012 (ILSVRC2012)}},
+	year = {2021},
+	month = {Apr},
+	note = {[Online; accessed 12. Sep. 2021]},
+	url = {https://image-net.org/challenges/LSVRC/2012/results.html}
+}
+@article{raghu2019transfusion,
+  title={Transfusion: Understanding transfer learning for medical imaging},
+  author={Raghu, Maithra and Zhang, Chiyuan and Kleinberg, Jon and Bengio, Samy},
+  journal={arXiv preprint arXiv:1902.07208},
+  year={2019}
+}
+@article{shorten2021deep,
+  title={Deep Learning applications for COVID-19},
+  author={Shorten, Connor and Khoshgoftaar, Taghi M and Furht, Borko},
+  journal={Journal of big Data},
+  volume={8},
+  number={1},
+  pages={1--54},
+  year={2021},
+  publisher={Springer}
+}
+@article{rieke2020future,
+  title={The future of digital health with federated learning},
+  author={Rieke, Nicola and Hancox, Jonny and Li, Wenqi and Milletari, Fausto and Roth, Holger R and Albarqouni, Shadi and Bakas, Spyridon and Galtier, Mathieu N and Landman, Bennett A and Maier-Hein, Klaus and others},
+  journal={NPJ digital medicine},
+  volume={3},
+  number={1},
+  pages={1--7},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@article{muhammad2021comprehensive,
+  title={A comprehensive survey on multimodal medical signals fusion for smart healthcare systems},
+  author={Muhammad, Ghulam and Alshehri, Fatima and Karray, Fakhri and El Saddik, Abdulmotaleb and Alsulaiman, Mansour and Falk, Tiago H},
+  journal={Information Fusion},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{hemdan2020covidx,
+  title={Covidx-net: A framework of deep learning classifiers to diagnose covid-19 in x-ray images},
+  author={Hemdan, Ezz El-Din and Shouman, Marwa A and Karar, Mohamed Esmail},
+  journal={arXiv preprint arXiv:2003.11055},
+  year={2020}
+}
+@article{ozturk2020automated,
+  title={Automated detection of COVID-19 cases using deep neural networks with X-ray images},
+  author={Ozturk, Tulin and Talo, Muhammed and Yildirim, Eylul Azra and Baloglu, Ulas Baran and Yildirim, Ozal and Acharya, U Rajendra},
+  journal={Computers in biology and medicine},
+  volume={121},
+  pages={103792},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{ohata2020automatic,
+  title={Automatic detection of COVID-19 infection using chest X-ray images through transfer learning},
+  author={Ohata, Elene Firmeza and Bezerra, Gabriel Maia and das Chagas, Jo{\~a}o Victor Souza and Neto, Alo{\'\i}sio Vieira Lira and Albuquerque, Adriano Bessa and de Albuquerque, Victor Hugo C and Reboucas Filho, Pedro Pedrosa},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={8},
+  number={1},
+  pages={239--248},
+  year={2020},
+  publisher={IEEE}
+}
+@article{minaee2020deep,
+  title={Deep-covid: Predicting covid-19 from chest x-ray images using deep transfer learning},
+  author={Minaee, Shervin and Kafieh, Rahele and Sonka, Milan and Yazdani, Shakib and Soufi, Ghazaleh Jamalipour},
+  journal={Medical image analysis},
+  volume={65},
+  pages={101794},
+  year={2020},
+  publisher={Elsevier}
+}
+@inproceedings{maghdid2021diagnosing,
+  title={Diagnosing COVID-19 pneumonia from X-ray and CT images using deep learning and transfer learning algorithms},
+  author={Maghdid, Halgurd S and Asaad, Aras T and Ghafoor, Kayhan Zrar and Sadiq, Ali Safaa and Mirjalili, Seyedali and Khan, Muhammad Khurram},
+  booktitle={Multimodal Image Exploitation and Learning 2021},
+  volume={11734},
+  pages={117340E},
+  year={2021},
+  organization={International Society for Optics and Photonics}
+}
+@article{goel2021optconet,
+  title={OptCoNet: an optimized convolutional neural network for an automatic diagnosis of COVID-19},
+  author={Goel, Tripti and Murugan, R and Mirjalili, Seyedali and Chakrabartty, Deba Kumar},
+  journal={Applied Intelligence},
+  volume={51},
+  number={3},
+  pages={1351--1366},
+  year={2021},
+  publisher={Springer}
+}
+@article{garain2021detection,
+  title={Detection of COVID-19 from CT scan images: A spiking neural network-based approach},
+  author={Garain, Avishek and Basu, Arpan and Giampaolo, Fabio and Velasquez, Juan D and Sarkar, Ram},
+  journal={Neural Computing and Applications},
+  pages={1--14},
+  year={2021},
+  publisher={Springer}
+}
+@article{zhou2021ensemble,
+  title={The ensemble deep learning model for novel COVID-19 on CT images},
+  author={Zhou, Tao and Lu, Huiling and Yang, Zaoli and Qiu, Shi and Huo, Bingqiang and Dong, Yali},
+  journal={Applied Soft Computing},
+  volume={98},
+  pages={106885},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{shalbaf2021automated,
+  title={Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans},
+  author={Shalbaf, Ahmad and Vafaeezadeh, Majid and others},
+  journal={International journal of computer assisted radiology and surgery},
+  volume={16},
+  number={1},
+  pages={115--123},
+  year={2021},
+  publisher={Springer}
+}
+@article{ghassemi2021automatic,
+  title={Automatic Diagnosis of COVID-19 from CT Images using CycleGAN and Transfer Learning},
+  author={Ghassemi, Navid and Shoeibi, Afshin and Khodatars, Marjane and Heras, Jonathan and Rahimi, Alireza and Zare, Assef and Pachori, Ram Bilas and Gorriz, J Manuel},
+  journal={arXiv preprint arXiv:2104.11949},
+  year={2021}
+}
+@article{das2021tlcov,
+  title={TLCoV-An automated Covid-19 screening model using Transfer Learning from chest X-ray images},
+  author={Das, Ayan Kumar and Kalam, Sidra and Kumar, Chiranjeev and Sinha, Ditipriya},
+  journal={Chaos, Solitons \& Fractals},
+  volume={144},
+  pages={110713},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{han2015deep,
+  title={Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding},
+  author={Han, Song and Mao, Huizi and Dally, William J},
+  journal={arXiv preprint arXiv:1510.00149},
+  year={2015}
+}
+@article{frankle2018lottery,
+  title={The lottery ticket hypothesis: Finding sparse, trainable neural networks},
+  author={Frankle, Jonathan and Carbin, Michael},
+  journal={arXiv preprint arXiv:1803.03635},
+  year={2018}
+}
+@article{fan2020training,
+  title={Training with quantization noise for extreme model compression},
+  author={Fan, Angela and Stock, Pierre and Graham, Benjamin and Grave, Edouard and Gribonval, R{\'e}mi and Jegou, Herve and Joulin, Armand},
+  journal={arXiv preprint arXiv:2004.07320},
+  year={2020}
+}
+@article{rajinikanth2020harmony,
+  title={Harmony-search and otsu based system for coronavirus disease (COVID-19) detection using lung CT scan images},
+  author={Rajinikanth, V and Dey, Nilanjan and Raj, Alex Noel Joseph and Hassanien, Aboul Ella and Santosh, KC and Raja, N},
+  journal={arXiv preprint arXiv:2004.03431},
+  year={2020}
+}
+@misc{kanne2020chest,
+  title={Chest CT findings in 2019 novel coronavirus (2019-nCoV) infections from Wuhan, China: key points for the radiologist},
+  author={Kanne, Jeffrey P},
+  year={2020},
+  publisher={Radiological Society of North America}
+}
+@misc{forthmann2019augmented,
+  title={Augmented display device for use in a medical imaging laboratory},
+  author={Forthmann, Peter and Pfleiderer, Glen},
+  year={2019},
+  month=sep # "~10",
+  publisher={Google Patents},
+  note={US Patent 10,412,377}
+}
+@article{srivastav2018mvor,
+  title={MVOR: A multi-view RGB-D operating room dataset for 2D and 3D human pose estimation},
+  author={Srivastav, Vinkle and Issenhuth, Thibaut and Kadkhodamohammadi, Abdolrahim and de Mathelin, Michel and Gangi, Afshin and Padoy, Nicolas},
+  journal={arXiv preprint arXiv:1808.08180},
+  year={2018}
+}
+@inproceedings{georgakis2020hierarchical,
+  title={Hierarchical kinematic human mesh recovery},
+  author={Georgakis, Georgios and Li, Ren and Karanam, Srikrishna and Chen, Terrence and Ko{\v{s}}eck{\'a}, Jana and Wu, Ziyan},
+  booktitle={European Conference on Computer Vision},
+  pages={768--784},
+  year={2020},
+  organization={Springer}
+}
+@article{gaal2020attention,
+  title={Attention u-net based adversarial architectures for chest x-ray lung segmentation},
+  author={Ga{\'a}l, Guszt{\'a}v and Maga, Bal{\'a}zs and Luk{\'a}cs, Andr{\'a}s},
+  journal={arXiv preprint arXiv:2003.10304},
+  year={2020}
+}
+@article{garhwal2021integrating,
+  title={Integrating Metamaterial Antenna Node and LiFi for Privacy Preserving Intelligent COVID-19 Hospital Patient Management},
+  author={Garhwal, A and Bunruangses, M and Arumona, AE and Youplao, P and Ray, K and Suwandee, S and Yupapin, P},
+  journal={Cognitive Computation},
+  pages={1--14},
+  year={2021},
+  publisher={Springer}
+}
+@incollection{samuel2021lifi,
+  title={LIFI-Based Radiation-Free Monitoring and Transmission Device for Hospitals/Public Places},
+  author={Samuel, TS Arun and Pavithra, M and Mohan, R Raj and others},
+  booktitle={Multimedia and Sensory Input for Augmented, Mixed, and Virtual Reality},
+  pages={195--205},
+  year={2021},
+  publisher={IGI Global}
+}
+@article{hoang2021body,
+  title={Body Temperature—Indoor Condition Monitor and Activity Recognition by MEMS Accelerometer Based on IoT-Alert System for People in Quarantine Due to COVID-19},
+  author={Hoang, Minh Long and Carrat{\`u}, Marco and Paciello, Vincenzo and Pietrosanto, Antonio},
+  journal={Sensors},
+  volume={21},
+  number={7},
+  pages={2313},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{khan2021attention,
+  title={Attention induced multi-head convolutional neural network for human activity recognition},
+  author={Khan, Zanobya N and Ahmad, Jamil},
+  journal={Applied Soft Computing},
+  volume={110},
+  pages={107671},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{nedorubova2021human,
+  title={Human Activity Recognition using Continuous Wavelet Transform and Convolutional Neural Networks},
+  author={Nedorubova, Anna and Kadyrova, Alena and Khlyupin, Aleksey},
+  journal={arXiv preprint arXiv:2106.12666},
+  year={2021}
+}
+@article{gollwitzer2020connecting,
+  title={Connecting Self-Reported Social Distancing to Real-World Behavior During the COVID-19 Pandemic},
+  author={Gollwitzer, Anton and McLoughlin, Killian and Martel, Cameron and Marshall, Julia and H{\"o}hs, Johanna Marie and Bargh, John A},
+  year={2020},
+  publisher={PsyArXiv}
+}
+@inproceedings{ouyang2021clusterfl,
+  title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
+  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
+  booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
+  pages={54--66},
+  year={2021}
+}
+@article{lagarias1998convergence,
+  title={Convergence properties of the Nelder--Mead simplex method in low dimensions},
+  author={Lagarias, Jeffrey C and Reeds, James A and Wright, Margaret H and Wright, Paul E},
+  journal={SIAM Journal on optimization},
+  volume={9},
+  number={1},
+  pages={112--147},
+  year={1998},
+  publisher={SIAM}
+}
+@misc{BibEntry2021Sep70,
+	title = {{Connected Papers {$\vert$} Find and explore academic papers}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 15. Sep. 2021]},
+	url = {https://www.connectedpapers.com}
+}
+@misc{BibEntry2021Sep71,
+	title = {{Google Code Archive - Long-term storage for Google Code Project Hosting.}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 15. Sep. 2021]},
+	url = {https://code.google.com/archive/p/word2vec}
+}
+@article{goldberg2014word2vec,
+  title={word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method},
+  author={Goldberg, Yoav and Levy, Omer},
+  journal={arXiv preprint arXiv:1402.3722},
+  year={2014}
+}
+@article{firth2020using,
+  title={Using a real-world network to model localized COVID-19 control strategies},
+  author={Firth, Josh A and Hellewell, Joel and Klepac, Petra and Kissler, Stephen and Kucharski, Adam J and Spurgin, Lewis G},
+  journal={Nature medicine},
+  volume={26},
+  number={10},
+  pages={1616--1622},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@article{kissler2020sparking,
+  title={Sparking “The BBC Four Pandemic”: Leveraging citizen science and mobile phones to model the spread of disease},
+  author={Kissler, Stephen M and Klepac, Petra and Tang, Maria and Conlan, Andrew JK and Gog, Julia R},
+  journal={BioRxiv},
+  pages={479154},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+@article{hellewell2020feasibility,
+  title={Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts},
+  author={Hellewell, Joel and Abbott, Sam and Gimma, Amy and Bosse, Nikos I and Jarvis, Christopher I and Russell, Timothy W and Munday, James D and Kucharski, Adam J and Edmunds, W John and Sun, Fiona and others},
+  journal={The Lancet Global Health},
+  volume={8},
+  number={4},
+  pages={e488--e496},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{so2020visualizing,
+  title={Visualizing COVID-19 pandemic risk through network connectedness},
+  author={So, Mike KP and Tiwari, Agnes and Chu, Amanda MY and Tsang, Jenny TY and Chan, Jacky NL},
+  journal={International Journal of Infectious Diseases},
+  volume={96},
+  pages={558--561},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{thombs2020protocol,
+  title={Protocol for a partially nested randomised controlled trial to evaluate the effectiveness of the scleroderma patient-centered intervention network COVID-19 home-isolation activities together (SPIN-CHAT) program to reduce anxiety among at-risk scleroderma patients},
+  author={Thombs, Brett D and Kwakkenbos, Linda and Carrier, Marie-Eve and Bourgeault, Angelica and Tao, Lydia and Harb, Sami and Gagarine, Maria and Rice, Danielle and Bustamante, Laura and Ellis, Kelsey and others},
+  journal={Journal of psychosomatic research},
+  volume={135},
+  pages={110132},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{siemieniuk2020drug,
+  title={Drug treatments for covid-19: living systematic review and network meta-analysis},
+  author={Siemieniuk, Reed AC and Bartoszko, Jessica J and Ge, Long and Zeraatkar, Dena and Izcovich, Ariel and Kum, Elena and Pardo-Hernandez, Hector and Qasim, Anila and Martinez, Juan Pablo D{\'\i}az and Rochwerg, Bram and others},
+  journal={Bmj},
+  volume={370},
+  year={2020},
+  publisher={British Medical Journal Publishing Group}
+}
+@article{thurner2020network,
+  title={A network-based explanation of why most COVID-19 infection curves are linear},
+  author={Thurner, Stefan and Klimek, Peter and Hanel, Rudolf},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={117},
+  number={37},
+  pages={22684--22689},
+  year={2020},
+  publisher={National Acad Sciences}
+}
+@article{afshar2020covid,
+  title={Covid-caps: A capsule network-based framework for identification of covid-19 cases from x-ray images},
+  author={Afshar, Parnian and Heidarian, Shahin and Naderkhani, Farnoosh and Oikonomou, Anastasia and Plataniotis, Konstantinos N and Mohammadi, Arash},
+  journal={Pattern Recognition Letters},
+  volume={138},
+  pages={638--643},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{chu2020analysis,
+  title={Analysis of travel restrictions for COVID-19 control in Latin America through network connectedness},
+  author={Chu, Amanda MY and Tsang, Jenny TY and Chan, Jacky NL and Tiwari, Agnes and So, Mike KP},
+  journal={Journal of travel medicine},
+  volume={27},
+  number={8},
+  pages={taaa176},
+  year={2020},
+  publisher={Oxford University Press}
+}
+@article{karaivanov2020social,
+  title={A social network model of COVID-19},
+  author={Karaivanov, Alexander},
+  journal={Plos one},
+  volume={15},
+  number={10},
+  pages={e0240878},
+  year={2020},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@article{antal2021blockchain,
+  title={Blockchain platform for COVID-19 vaccine supply management},
+  author={Antal, Claudia and Cioara, Tudor and Antal, Marcel and Anghel, Ionut},
+  journal={IEEE Open Journal of the Computer Society},
+  volume={2},
+  pages={164--178},
+  year={2021},
+  publisher={IEEE}
+}
+@article{tetteh2020covid,
+  title={COVID-19 network model to evaluate vaccine strategies towards herd immunity},
+  author={Tetteh, Josephine NA and Vargas, Esteban Abelardo Hernandez and others},
+  journal={medRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+@article{gysi2021network,
+  title={Network medicine framework for identifying drug-repurposing opportunities for COVID-19},
+  author={Gysi, Deisy Morselli and Do Valle, {\'I}talo and Zitnik, Marinka and Ameli, Asher and Gan, Xiao and Varol, Onur and Ghiassian, Susan Dina and Patten, JJ and Davey, Robert A and Loscalzo, Joseph and others},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={19},
+  year={2021},
+  publisher={National Acad Sciences}
+}
+@article{fiscon2021saverunner,
+  title={SAveRUNNER: A network-based algorithm for drug repurposing and its application to COVID-19},
+  author={Fiscon, Giulia and Conte, Federica and Farina, Lorenzo and Paci, Paola},
+  journal={PLoS computational biology},
+  volume={17},
+  number={2},
+  pages={e1008686},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@article{Butler2021Sep,
+	author = {Butler, Sarah},
+	title = {{Co-op faces criticism as it begins selling groceries via Amazon}},
+	journal = {the Guardian},
+	year = {2021},
+	month = {Sep},
+	publisher = {The Guardian},
+	url = {https://www.theguardian.com/business/2021/sep/16/co-op-faces-criticism-as-it-begins-selling-groceries-via-amazon}
+}
+@article{martin2019handoff,
+  title={Handoff All Your Privacy: A Review of Apple's Bluetooth Low Energy Continuity Protocol},
+  author={Martin, Jeremy and Alpuche, Douglas and Bodeman, Kristina and Brown, Lamont and Fenske, Ellis and Foppe, Lucas and Mayberry, Travis and Rye, Erik C and Sipes, Brandon and Teplov, Sam},
+  journal={arXiv preprint arXiv:1904.10600},
+  year={2019}
+}
+@inproceedings{ding2021nationwide,
+  title={Nationwide deployment and operation of a virtual arrival detection system in the wild},
+  author={Ding, Yi and Yang, Yu and Jiang, Wenchao and Liu, Yunhuai and He, Tian and Zhang, Desheng},
+  booktitle={Proceedings of the 2021 ACM SIGCOMM 2021 Conference},
+  pages={705--717},
+  year={2021}
+}
+@article{stewart2020control,
+  title={How control theory can help us control COVID-19},
+  author={Stewart, Greg and Heusden, Klaskevan and Dumont, Guy A},
+  journal={IEEE Spectrum},
+  volume={57},
+  number={6},
+  pages={22--29},
+  year={2020},
+  publisher={IEEE}
+}
+@article{xiao2020taking,
+  title={Taking the right measures to control COVID-19},
+  author={Xiao, Yonghong and Torok, Mili Estee},
+  journal={The Lancet Infectious Diseases},
+  volume={20},
+  number={5},
+  pages={523--524},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{alamo2020data,
+  title={Data-driven methods to monitor, model, forecast and control covid-19 pandemic: Leveraging data science, epidemiology and control theory},
+  author={Alamo, Teodoro and Reina, Daniel G and Mill{\'a}n, Pablo},
+  journal={arXiv preprint arXiv:2006.01731},
+  year={2020}
+}
+@article{shah2020control,
+  title={Control strategies to curtail transmission of covid-19},
+  author={Shah, Nita H and Suthar, Ankush H and Jayswal, Ekta N},
+  journal={International Journal of Mathematics and Mathematical Sciences},
+  volume={2020},
+  year={2020},
+  publisher={Hindawi}
+}
+@article{rowthorn2020cost,
+  title={A cost--benefit analysis of the COVID-19 disease},
+  author={Rowthorn, Robert and Maciejowski, Jan},
+  journal={Oxford Review of Economic Policy},
+  volume={36},
+  number={Supplement\_1},
+  pages={S38--S55},
+  year={2020},
+  publisher={Oxford University Press UK}
+}
+@article{lemecha2020optimal,
+  title={Optimal control strategies for the transmission risk of COVID-19},
+  author={Lemecha Obsu, Legesse and Feyissa Balcha, Shiferaw},
+  journal={Journal of biological dynamics},
+  volume={14},
+  number={1},
+  pages={590--607},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
+@article{choi2021optimal,
+  title={Optimal strategies for social distancing and testing to control COVID-19},
+  author={Choi, Wongyeong and Shim, Eunha},
+  journal={Journal of theoretical biology},
+  volume={512},
+  pages={110568},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{bushnaq2021control,
+  title={Control of COVID-19 dynamics through a fractional-order model},
+  author={Bushnaq, Samia and Saeed, Tareq and Torres, Delfim FM and Zeb, Anwar},
+  journal={Alexandria Engineering Journal},
+  volume={60},
+  number={4},
+  pages={3587--3592},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{khalilpourazari2021designing,
+  title={Designing a hybrid reinforcement learning based algorithm with application in prediction of the COVID-19 pandemic in Quebec},
+  author={Khalilpourazari, Soheyl and Doulabi, Hossein Hashemi},
+  journal={Annals of Operations Research},
+  pages={1--45},
+  year={2021},
+  publisher={Springer}
+}
+@article{kompella2020reinforcement,
+  title={Reinforcement Learning for Optimization of COVID-19 Mitigation policies},
+  author={Kompella, Varun and Capobianco, Roberto and Jong, Stacy and Browne, Jonathan and Fox, Spencer and Meyers, Lauren and Wurman, Peter and Stone, Peter},
+  journal={arXiv preprint arXiv:2010.10560},
+  year={2020}
+}
+@article{wang2020risk,
+  title={Risk-aware identification of highly suspected covid-19 cases in social iot: A joint graph theory and reinforcement learning approach},
+  author={Wang, Bowen and Sun, Yanjing and Duong, Trung Q and Nguyen, Long D and Hanzo, Lajos},
+  journal={Ieee Access},
+  volume={8},
+  pages={115655--115661},
+  year={2020},
+  publisher={IEEE}
+}
+@article{kwak2021deep,
+  title={Deep reinforcement learning approaches for global public health strategies for COVID-19 pandemic},
+  author={Kwak, Gloria Hyunjung and Ling, Lowell and Hui, Pan},
+  journal={Plos one},
+  volume={16},
+  number={5},
+  pages={e0251550},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@article{jalali2021oppositional,
+  title={An oppositional-Cauchy based GSK evolutionary algorithm with a novel deep ensemble reinforcement learning strategy for COVID-19 diagnosis},
+  author={Jalali, Seyed Mohammad Jafar and Ahmadian, Milad and Ahmadian, Sajad and Khosravi, Abbas and Alazab, Mamoun and Nahavandi, Saeid},
+  journal={Applied Soft Computing},
+  volume={111},
+  pages={107675},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{nam2020network,
+  title={Network reinforcement driven drug repurposing for COVID-19 by exploiting disease-gene-drug associations},
+  author={Nam, Yonghyun and Yun, Jae-Seung and Lee, Seung Mi and Park, Ji Won and Chen, Ziqi and Lee, Brian and Verma, Anurag and Ning, Xia and Shen, Li and Kim, Dokyoon},
+  journal={arXiv preprint arXiv:2008.05377},
+  year={2020}
+}
+@article{banskota202015,
+  title={15 smartphone apps for older adults to use while in isolation during the COVID-19 pandemic},
+  author={Banskota, Swechya and Healy, Margaret and Goldberg, Elizabeth M},
+  journal={Western Journal of Emergency Medicine},
+  volume={21},
+  number={3},
+  pages={514},
+  year={2020},
+  publisher={California Chapter of the American Academy of Emergency Medicine (Cal/AAEM)}
+}
+@article{zheng2021reinforcement,
+  title={Reinforcement Learning Assisted Oxygen Therapy for COVID-19 Patients Under Intensive Care},
+  author={Zheng, Hua and Zhu, Jiahao and Xie, Wei and Zhong, Judy},
+  journal={ArXiv},
+  year={2021},
+  publisher={arXiv}
+}
+@article{bonsaksen2021video,
+  title={Video-based communication and its association with loneliness, mental health and quality of life among older people during the COVID-19 outbreak},
+  author={Bonsaksen, Tore and Thygesen, Hilde and Leung, Janni and Ruffolo, Mary and Schoultz, Mariyana and Price, Daicia and {\O}stertun Geirdal, Amy},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={18},
+  number={12},
+  pages={6284},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{nagurney2021supply,
+  title={Supply chain game theory network modeling under labor constraints: Applications to the Covid-19 pandemic},
+  author={Nagurney, Anna},
+  journal={European journal of operational research},
+  volume={293},
+  number={3},
+  pages={880--891},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{BBCNews2021Sep,
+	author = {{BBC News}},
+	title = {{McDonald{'}s hiring 14-year-olds in Oregon amid labour shortage}},
+	journal = {BBC News},
+	year = {2021},
+	month = {Sep},
+	publisher = {BBC News},
+	url = {https://www.bbc.com/news/business-58414597}
+}
+@article{sharma2020coswara,
+  title={Coswara--A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis},
+  author={Sharma, Neeraj and Krishnan, Prashant and Kumar, Rohit and Ramoji, Shreyas and Chetupalli, Srikanth Raj and Ghosh, Prasanta Kumar and Ganapathy, Sriram and others},
+  journal={arXiv preprint arXiv:2005.10548},
+  year={2020}
+}
+@article{mouawad2021robust,
+  title={Robust Detection of COVID-19 in Cough Sounds},
+  author={Mouawad, Pauline and Dubnov, Tammuz and Dubnov, Shlomo},
+  journal={SN Computer Science},
+  volume={2},
+  number={1},
+  pages={1--13},
+  year={2021},
+  publisher={Springer}
+}
+@article{andreu2021generic,
+  title={A generic deep learning based cough analysis system from clinically validated samples for point-of-need covid-19 test and severity levels},
+  author={Andreu-Perez, Javier and P{\'e}rez-Espinosa, Humberto and Timonet, Eva and Kiani, Mehrin and Giron-Perez, Manuel Ivan and Benitez-Trinidad, Alma B and Jarchi, Delaram and Rosales, Alejandro and Gkatzoulis, Nick and Reyes-Galaviz, Orion F and others},
+  journal={IEEE Transactions on Services Computing},
+  year={2021},
+  publisher={IEEE}
+}
+@article{imran2020ai4covid,
+  title={AI4COVID-19: AI enabled preliminary diagnosis for COVID-19 from cough samples via an app},
+  author={Imran, Ali and Posokhova, Iryna and Qureshi, Haneya N and Masood, Usama and Riaz, Muhammad Sajid and Ali, Kamran and John, Charles N and Hussain, MD Iftikhar and Nabeel, Muhammad},
+  journal={Informatics in Medicine Unlocked},
+  volume={20},
+  pages={100378},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{brown2020exploring,
+  title={Exploring automatic diagnosis of covid-19 from crowdsourced respiratory sound data},
+  author={Brown, Chlo{\"e} and Chauhan, Jagmohan and Grammenos, Andreas and Han, Jing and Hasthanasombat, Apinan and Spathis, Dimitris and Xia, Tong and Cicuta, Pietro and Mascolo, Cecilia},
+  journal={arXiv preprint arXiv:2006.05919},
+  year={2020}
+}
+@article{pahar2021covid,
+  title={COVID-19 Detection in Cough, Breath and Speech using Deep Transfer Learning and Bottleneck Features},
+  author={Pahar, Madhurananda and Klopper, Marisa and Warren, Robin and Niesler, Thomas},
+  journal={arXiv preprint arXiv:2104.02477},
+  year={2021}
+}
+@article{martin2020artificial,
+  title={An artificial intelligence-based first-line defence against COVID-19: digitally screening citizens for risks via a chatbot},
+  author={Martin, Alistair and Nateqi, Jama and Gruarin, Stefanie and Munsch, Nicolas and Abdarahmane, Isselmou and Zobel, Marc and Knapp, Bernhard},
+  journal={Scientific reports},
+  volume={10},
+  number={1},
+  pages={1--7},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@article{deshpande2020overview,
+  title={An overview on audio, signal, speech, \& language processing for covid-19},
+  author={Deshpande, Gauri and Schuller, Bj{\"o}rn},
+  journal={arXiv preprint arXiv:2005.08579},
+  year={2020}
+}
+@article{korolev2021identification,
+  title={Identification and estimation of the SEIRD epidemic model for COVID-19},
+  author={Korolev, Ivan},
+  journal={Journal of econometrics},
+  volume={220},
+  number={1},
+  pages={63--85},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{balabdaoui2020age,
+  title={Age-stratified discrete compartment model of the COVID-19 epidemic with application to Switzerland},
+  author={Balabdaoui, Fadoua and Mohr, Dirk},
+  journal={Scientific reports},
+  volume={10},
+  number={1},
+  pages={1--12},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@article{giordano2020modelling,
+  title={Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy},
+  author={Giordano, Giulia and Blanchini, Franco and Bruno, Raffaele and Colaneri, Patrizio and Di Filippo, Alessandro and Di Matteo, Angela and Colaneri, Marta},
+  journal={Nature medicine},
+  volume={26},
+  number={6},
+  pages={855--860},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+@article{mahajan2020epidemic,
+  title={An epidemic model SIPHERD and its application for prediction of the spread of COVID-19 infection in India},
+  author={Mahajan, Ashutosh and Sivadas, Namitha A and Solanki, Ravi},
+  journal={Chaos, Solitons \& Fractals},
+  volume={140},
+  pages={110156},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{engbert2021sequential,
+  title={Sequential data assimilation of the stochastic SEIR epidemic model for regional COVID-19 dynamics},
+  author={Engbert, Ralf and Rabe, Maximilian M and Kliegl, Reinhold and Reich, Sebastian},
+  journal={Bulletin of mathematical biology},
+  volume={83},
+  number={1},
+  pages={1--16},
+  year={2021},
+  publisher={Springer}
+}
+@article{de2021se,
+  title={On an SE (Is)(Ih) AR epidemic model with combined vaccination and antiviral controls for COVID-19 pandemic},
+  author={De la Sen, M and Ibeas, A},
+  journal={Advances in Difference Equations},
+  volume={2021},
+  number={1},
+  pages={1--30},
+  year={2021},
+  publisher={SpringerOpen}
+}
+@article{baba2021fractional,
+  title={Fractional order epidemic model for the dynamics of novel COVID-19},
+  author={Baba, Isa Abdullahi and Nasidi, Bashir Ahmad},
+  journal={Alexandria Engineering Journal},
+  volume={60},
+  number={1},
+  pages={537--548},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{leitao2020a,
+	title="A stochastic $\theta$-SEIHRD model: adding randomness to the COVID-19 spread.",
+	author="Álvaro {Leitao} and Carlos {Vázquez}",
+	journal="arXiv preprint arXiv:2010.15504",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3097791476",
+	year="2020"
+}
+
+
+@article{ahmad2020fractional,
+  title={Fractional order mathematical modeling of COVID-19 transmission},
+  author={Ahmad, Shabir and Ullah, Aman and Al-Mdallal, Qasem M and Khan, Hasib and Shah, Kamal and Khan, Aziz},
+  journal={Chaos, Solitons \& Fractals},
+  volume={139},
+  pages={110256},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{hussain2021modeling,
+  title={Modeling the dynamics of novel coronavirus (COVID-19) via stochastic epidemic model},
+  author={Hussain, Ghulam and Khan, Tahir and Khan, Amir and Inc, Mustafa and Zaman, Gul and Nisar, Kottakkaran Sooppy and Akg{\"u}l, Ali},
+  journal={Alexandria Engineering Journal},
+  volume={60},
+  number={4},
+  pages={4121--4130},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{khan2021modeling,
+  title={Modeling the dynamics of novel coronavirus (COVID-19) via stochastic epidemic model},
+  author={Khan, Tahir and Zaman, Gul and El-Khatib, Youssef},
+  journal={Results in Physics},
+  volume={24},
+  pages={104004},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{zhang2021effect,
+  title={The effect of population size for pathogen transmission on prediction of COVID-19 spread},
+  author={Zhang, Xuqi and Liu, Haiqi and Tang, Hanning and Zhang, Mei and Yuan, Xuedong and Shen, Xiaojing},
+  journal={Scientific Reports},
+  volume={11},
+  number={1},
+  pages={1--12},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{whiteley2021inference,
+  title={Inference in Stochastic Epidemic Models via Multinomial Approximations},
+  author={Whiteley, Nick and Rimella, Lorenzo},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={1297--1305},
+  year={2021},
+  organization={PMLR}
+}
+@article{wu2021deepgleam,
+  title={DeepGLEAM: a hybrid mechanistic and deep learning model for COVID-19 forecasting},
+  author={Wu, Dongxia and Gao, Liyao and Xiong, Xinyue and Chinazzi, Matteo and Vespignani, Alessandro and Ma, Yi-An and Yu, Rose},
+  journal={arXiv preprint arXiv:2102.06684},
+  year={2021}
+}
+@article{lv2021deep,
+  title={Deep learning in the COVID-19 epidemic: A deep model for urban traffic revitalization index},
+  author={Lv, Zhiqiang and Li, Jianbo and Dong, Chuanhao and Li, Haoran and Xu, Zhihao},
+  journal={Data \& Knowledge Engineering},
+  pages={101912},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{fanelli2020analysis,
+  title={Analysis and forecast of COVID-19 spreading in China, Italy and France},
+  author={Fanelli, Duccio and Piazza, Francesco},
+  journal={Chaos, Solitons \& Fractals},
+  volume={134},
+  pages={109761},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{maleki2020time,
+  title={Time series modelling to forecast the confirmed and recovered cases of COVID-19},
+  author={Maleki, Mohsen and Mahmoudi, Mohammad Reza and Wraith, Darren and Pho, Kim-Hung},
+  journal={Travel medicine and infectious disease},
+  volume={37},
+  pages={101742},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{zhang2020impact,
+  title={The impact of epidemics on agricultural production and forecast of COVID-19},
+  author={Zhang, Shurui and Wang, Shuo and Yuan, Lingran and Liu, Xiaoguang and Gong, Binlei},
+  journal={China Agricultural Economic Review},
+  year={2020},
+  publisher={Emerald Publishing Limited}
+}
+@article{salgotra2020time,
+  title={Time series analysis and forecast of the COVID-19 pandemic in India using genetic programming},
+  author={Salgotra, Rohit and Gandomi, Mostafa and Gandomi, Amir H},
+  journal={Chaos, Solitons \& Fractals},
+  volume={138},
+  pages={109945},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{tandon2020coronavirus,
+  title={Coronavirus (COVID-19): ARIMA based time-series analysis to forecast near future},
+  author={Tandon, Hiteshi and Ranjan, Prabhat and Chakraborty, Tanmoy and Suhag, Vandana},
+  journal={arXiv preprint arXiv:2004.07859},
+  year={2020}
+}
+@article{velasquez2020forecast,
+  title={Forecast and evaluation of COVID-19 spreading in USA with reduced-space Gaussian process regression},
+  author={Vel{\'a}squez, Ricardo Manuel Arias and Lara, Jennifer Vanessa Mejia},
+  journal={Chaos, Solitons \& Fractals},
+  volume={136},
+  pages={109924},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{dean2020ensemble,
+  title={Ensemble forecast modeling for the design of COVID-19 vaccine efficacy trials},
+  author={Dean, Natalie E and y Piontti, Ana Pastore and Madewell, Zachary J and Cummings, Derek AT and Hitchings, Matthew DT and Joshi, Keya and Kahn, Rebecca and Vespignani, Alessandro and Halloran, M Elizabeth and Longini Jr, Ira M},
+  journal={Vaccine},
+  volume={38},
+  number={46},
+  pages={7213--7216},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{singh2020development,
+  title={Development of new hybrid model of discrete wavelet decomposition and autoregressive integrated moving average (ARIMA) models in application to one month forecast the casualties cases of COVID-19},
+  author={Singh, Sarbjit and Parmar, Kulwinder Singh and Kumar, Jatinder and Makkhan, Sidhu Jitendra Singh},
+  journal={Chaos, Solitons \& Fractals},
+  volume={135},
+  pages={109866},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{villalobos2020using,
+  title={Using generalized logistics regression to forecast population infected by Covid-19},
+  author={Villalobos-Arias, Mario},
+  journal={arXiv preprint arXiv:2004.02406},
+  year={2020}
+}
+@article{dash2021deep,
+  title={A Deep Learning Method to Forecast COVID-19 Outbreak},
+  author={Dash, Satyabrata and Chakravarty, Sujata and Mohanty, Sachi Nandan and Pattanaik, Chinmaya Ranjan and Jain, Sarika},
+  journal={New Generation Computing},
+  pages={1--25},
+  year={2021},
+  publisher={Springer}
+}
+@article{zeroual2020deep,
+  title={Deep learning methods for forecasting COVID-19 time-Series data: A Comparative study},
+  author={Zeroual, Abdelhafid and Harrou, Fouzi and Dairi, Abdelkader and Sun, Ying},
+  journal={Chaos, Solitons \& Fractals},
+  volume={140},
+  pages={110121},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{elsheikh2021deep,
+  title={Deep learning-based forecasting model for COVID-19 outbreak in Saudi Arabia},
+  author={Elsheikh, Ammar H and Saba, Amal I and Abd Elaziz, Mohamed and Lu, Songfeng and Shanmugan, S and Muthuramalingam, T and Kumar, Ravinder and Mosleh, Ahmed O and Essa, FA and Shehabeldeen, Taher A},
+  journal={Process Safety and Environmental Protection},
+  volume={149},
+  pages={223--233},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{chen2020covid,
+  title={COVID-19 pandemic imperils weather forecast},
+  author={Chen, Ying},
+  journal={Geophysical research letters},
+  volume={47},
+  number={15},
+  pages={e2020GL088613},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+@article{vaishnav2020assessment,
+  title={Assessment of impact of relaxation in lockdown and forecast of preparation for combating COVID-19 pandemic in India using Group Method of Data Handling},
+  author={Vaishnav, Vaibhav and Vajpai, Jayashri},
+  journal={Chaos, Solitons \& Fractals},
+  volume={140},
+  pages={110191},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{long2021identification,
+  title={Identification and prediction of time-varying parameters of COVID-19 model: a data-driven deep learning approach},
+  author={Long, Jie and Khaliq, AQM and Furati, KM},
+  journal={International Journal of Computer Mathematics},
+  number={just-accepted},
+  pages={1--19},
+  year={2021},
+  publisher={Taylor \& Francis}
+}
+@article{panicker2021approach,
+  title={An Approach Towards Physics Informed Lung Ultrasound Image Scoring Neural Network for Diagnostic Assistance in COVID-19},
+  author={Panicker, Mahesh Raveendranatha and Chen, Yale Tung and Narayan, Kiran Vishnu and Kesavadas, C and Vinod, AP and others},
+  journal={arXiv preprint arXiv:2106.06980},
+  year={2021}
+}
+@article{diaz2021deep,
+  title={Deep-learning based detection of COVID-19 using lung ultrasound imagery},
+  author={Diaz-Escobar, Julia and Ord{\'o}{\~n}ez-Guill{\'e}n, Nelson E and Villarreal-Reyes, Salvador and Galaviz-Mosqueda, Alejandro and Kober, Vitaly and Rivera-Rodriguez, Ra{\'u}l and Lozano Rizk, Jose E},
+  journal={Plos one},
+  volume={16},
+  number={8},
+  pages={e0255886},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@article{chen2020forecast,
+  title={Forecast possible risk for COVID-19 epidemic dissemination under current control strategies in Japan},
+  author={Chen, Zhongxiang and Yang, Jun and Dai, Binxiang},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={17},
+  number={11},
+  pages={3872},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{calafiore2020time,
+  title={A time-varying SIRD model for the COVID-19 contagion in Italy},
+  author={Calafiore, Giuseppe C and Novara, Carlo and Possieri, Corrado},
+  journal={Annual reviews in control},
+  year={2020},
+  publisher={Elsevier}
+}
+@inproceedings{lazrag2020sparse,
+  title={Sparse Wavelet Auto-encoder for Covid-19 Cases Identification},
+  author={Lazrag, Houda and Ali, Ramzi Ben and Ejbali, Ridha},
+  booktitle={International Conference on Hybrid Intelligent Systems},
+  pages={22--29},
+  year={2020},
+  organization={Springer}
+}
+@article{jiang2021modeling,
+  title={Modeling and prediction of the transmission dynamics of COVID-19 based on the SINDy-LM method},
+  author={Jiang, Yu-Xin and Xiong, Xiong and Zhang, Shuo and Wang, Jia-Xiang and Li, Jia-Chun and Du, Lin},
+  journal={Nonlinear Dynamics},
+  pages={1--20},
+  year={2021},
+  publisher={Springer}
+}
+@article{chen2021prediction,
+  title={Prediction and mitigation of mutation threats to COVID-19 vaccines and antibody therapies},
+  author={Chen, Jiahui and Gao, Kaifu and Wang, Rui and Wei, Guo-Wei},
+  journal={Chemical science},
+  volume={12},
+  number={20},
+  pages={6929--6948},
+  year={2021},
+  publisher={Royal Society of Chemistry}
+}
+@article{monajjemi2021variety,
+  title={Variety of spike protein in covid-19 mutation: Stability, effectiveness and outbreak rate as a target for vaccine and therapeutic development},
+  author={Monajjemi, Majid and Mollaamin, Fatemeh and Shekarabi, Azadeh Sadat and Ghadami, Azam},
+  journal={Biointerface Res App},
+  volume={11},
+  pages={10016--26},
+  year={2021}
+}
+@article{olliaro2021does,
+  title={What does 95\% COVID-19 vaccine efficacy really mean?},
+  author={Olliaro, Piero},
+  journal={The Lancet Infectious Diseases},
+  volume={21},
+  number={6},
+  pages={769},
+  year={2021},
+  publisher={Elsevier}
+}
+@misc{Ltd2021Sep,
+	author = {Ltd, Research and Markets},
+	title = {{Internet of Things (IoT) Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)}},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 19. Sep. 2021]},
+	url = {https://www.researchandmarkets.com/reports/4591261/internet-of-things-iot-market-growth-trends}
+}
+@article{lopez2020challenges,
+  title={Challenges and opportunities of the Internet of Things for global development to achieve the united nations sustainable development goals},
+  author={L{\'o}pez-Vargas, Ascensi{\'o}n and Fuentes, Manuel and Vivar, Marta},
+  journal={IEEE Access},
+  volume={8},
+  pages={37202--37213},
+  year={2020},
+  publisher={IEEE}
+}
+@article{dutta2021application,
+  title={Application of Agricultural Drones and IoT to Understand Food Supply Chain During Post COVID-19},
+  author={Dutta, Pushan Kumar and Mitra, Susanta},
+  journal={Agricultural Informatics: Automation Using the IoT and Machine Learning},
+  pages={67--87},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+@article{zhu2018vision,
+  title={Vision meets drones: A challenge},
+  author={Zhu, Pengfei and Wen, Longyin and Bian, Xiao and Ling, Haibin and Hu, Qinghua},
+  journal={arXiv preprint arXiv:1804.07437},
+  year={2018}
+}
+@article{kumar2021drone,
+  title={A drone-based networked system and methods for combating coronavirus disease (COVID-19) pandemic},
+  author={Kumar, Adarsh and Sharma, Kriti and Singh, Harvinder and Naugriya, Sagar Gupta and Gill, Sukhpal Singh and Buyya, Rajkumar},
+  journal={Future Generation Computer Systems},
+  volume={115},
+  pages={1--19},
+  year={2021},
+  publisher={Elsevier}
+}
+@misc{BibEntry2020Jun45,
+	title = {{Drones and the Coronavirus: Do These Applications Make Sense? (Updated) - WeRobotics Blog}},
+	journal = {WeRobotics Blog},
+	year = {2020},
+	month = {Jun},
+	note = {[Online; accessed 19. Sep. 2021]},
+	url = {https://blog.werobotics.org/2020/04/09/drones-coronavirus-no-sense}
+}
+@article{alsamhi2021blockchain,
+  title={Blockchain for decentralized multi-drone to combat COVID-19 and future pandemics: Framework and proposed solutions},
+  author={Alsamhi, Saeed Hamood and Lee, Brian and Guizani, Mohsen and Kumar, Neeraj and Qiao, Yuansong and Liu, Xuan},
+  journal={Transactions on Emerging Telecommunications Technologies},
+  pages={e4255},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+@article{choe2021perceived,
+  title={Perceived risks from drone food delivery services before and after COVID-19},
+  author={Choe, Ja Young Jacey and Kim, Jinkyung Jenny and Hwang, Jinsoo},
+  journal={International Journal of Contemporary Hospitality Management},
+  year={2021},
+  publisher={Emerald Publishing Limited}
+}
+@article{hwang2021effects,
+  title={The effects of expected benefits on image, desire, and behavioral intentions in the field of drone food delivery services after the outbreak of COVID-19},
+  author={Hwang, Jinsoo and Kim, Hyunjoon},
+  journal={Sustainability},
+  volume={13},
+  number={1},
+  pages={117},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{kunovjanek2021containing,
+  title={Containing the COVID-19 pandemic with drones-Feasibility of a drone enabled back-up transport system},
+  author={Kunovjanek, Maximilian and Wankm{\"u}ller, Christian},
+  journal={Transport Policy},
+  volume={106},
+  pages={141--152},
+  year={2021},
+  publisher={Elsevier}
+}
+@incollection{kalra2021covid,
+  title={COVID-Based Edge-Drone Application Approach},
+  author={Kalra, Ramneek and Sahni, Vanshdeep},
+  booktitle={Innovations in Cyber Physical Systems},
+  pages={169--179},
+  year={2021},
+  publisher={Springer}
+}
+@article{shao2021real,
+  title={Real-time and Accurate UAV Pedestrian Detection for Social Distancing Monitoring in COVID-19 Pandemic},
+  author={Shao, Zhenfeng and Cheng, Gui and Ma, Jiayi and Wang, Zhongyuan and Wang, Jiaming and Li, Deren},
+  journal={IEEE Transactions on Multimedia},
+  year={2021},
+  publisher={IEEE}
+}
+@inproceedings{zuhair2021blocov6,
+  title={BloCoV6: A blockchain-based 6G-assisted UAV contact tracing scheme for COVID-19 pandemic},
+  author={Zuhair, Mohd and Patel, Farnazbanu and Navapara, Dhruvin and Bhattacharya, Pronaya and Saraswat, Deepti},
+  booktitle={2021 2nd International Conference on Intelligent Engineering and Management (ICIEM)},
+  pages={271--276},
+  year={2021},
+  organization={IEEE}
+}
+@article{adwibowo2021assessments,
+  title={Assessments of heavy lift UAV quadcopter drone to support COVID 19 vaccine cold chain delivery for indigenous people in remote areas in South East Asia},
+  author={Adwibowo, Andrio},
+  journal={medRxiv},
+  year={2021},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+@article{verma2021vacochain,
+  title={VaCoChain: Blockchain-based 5G-assisted UAV Vaccine distribution scheme for future pandemics},
+  author={Verma, Ashwin and Bhattacharya, Pronaya and Zuhair, Mohammad and Tanwar, Sudeep and Kumar, Neeraj},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2021},
+  publisher={IEEE}
+}
+@article{kapser2021autonomous,
+  title={Autonomous delivery vehicles to fight the spread of Covid-19--How do men and women differ in their acceptance?},
+  author={Kapser, Sebastian and Abdelrahman, Mahmoud and Bernecker, Tobias},
+  journal={Transportation Research Part A: Policy and Practice},
+  volume={148},
+  pages={183--198},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{ruan2021smart,
+  title={Smart Cleaner: A New Autonomous Indoor Disinfection Robot for Combating the COVID-19 Pandemic},
+  author={Ruan, Kaicheng and Wu, Zehao and Xu, Qingsong},
+  journal={Robotics},
+  volume={10},
+  number={3},
+  pages={87},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{liu2021role,
+  title={The role of the hercules autonomous vehicle during the covid-19 pandemic: An autonomous logistic vehicle for contactless goods transportation},
+  author={Liu, Tianyu and hai Liao, Qing and Gan, Lu and Ma, Fulong and Cheng, Jie and Xie, Xupeng and Wang, Zhe and Chen, Yingbing and Zhu, Yilong and Zhang, Shuyang and others},
+  journal={IEEE Robotics \& Automation Magazine},
+  volume={28},
+  number={1},
+  pages={48--58},
+  year={2021},
+  publisher={IEEE}
+}
+@article{al2021autonomous,
+  title={Autonomous Robotic Point-of-Care Ultrasound Imaging for Monitoring of COVID-19--Induced Pulmonary Diseases},
+  author={Al-Zogbi, Lidia and Singh, Vivek and Teixeira, Brian and Ahuja, Avani and Bagherzadeh, Pooyan Sahbaee and Kapoor, Ankur and Saeidi, Hamed and Fleiter, Thorsten and Krieger, Axel},
+  journal={Frontiers in Robotics and AI},
+  volume={8},
+  year={2021},
+  publisher={Frontiers Media SA}
+}
+@article{mercatelli2021web,
+  title={Web tools to fight pandemics: the COVID-19 experience},
+  author={Mercatelli, Daniele and Holding, Andrew N and Giorgi, Federico M},
+  journal={Briefings in Bioinformatics},
+  volume={22},
+  number={2},
+  pages={690--700},
+  year={2021},
+  publisher={Oxford University Press}
+}
+@article{donati2012developing,
+  title={Developing self-mixing interferometry for instrumentation and measurements},
+  author={Donati, Silvano},
+  journal={Laser \& Photonics Reviews},
+  volume={6},
+  number={3},
+  pages={393--417},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+@inproceedings{hammam2018deeppet,
+  title={DeepPet: A pet animal tracking system in internet of things using deep neural networks},
+  author={Hammam, Ahmed Ali and Soliman, Mona M and Hassanein, Aboul Ella},
+  booktitle={2018 13th International Conference on Computer Engineering and Systems (ICCES)},
+  pages={38--43},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{wylie1996non,
+  title={The non-line of sight problem in mobile location estimation},
+  author={Wylie, Marilynn P and Holtzman, Jack},
+  booktitle={Proceedings of ICUPC-5th International Conference on Universal Personal Communications},
+  volume={2},
+  pages={827--831},
+  year={1996},
+  organization={IEEE}
+}
+@article{ye2021compressed,
+  title={Compressed sensing for active non-line-of-sight imaging},
+  author={Ye, Jun-Tian and Huang, Xin and Li, Zheng-Ping and Xu, Feihu},
+  journal={Optics Express},
+  volume={29},
+  number={2},
+  pages={1749--1763},
+  year={2021},
+  publisher={Optical Society of America}
+}
+@article{zhang2021fast,
+  title={Fast Screening and Primary Diagnosis of COVID-19 by ATR--FT-IR},
+  author={Zhang, Liyang and Xiao, Meng and Wang, Yao and Peng, Siqi and Chen, Yu and Zhang, Dong and Zhang, Dongheyu and Guo, Yuntao and Wang, Xinxin and Luo, Haiyun and others},
+  journal={Analytical chemistry},
+  volume={93},
+  number={4},
+  pages={2191--2199},
+  year={2021},
+  publisher={ACS Publications}
+}
+@article{denk2019differential,
+  title={Differential single-pixel camera enabling low-cost microscopy in near-infrared spectral region},
+  author={Denk, Ond{\v{r}}ej and Musiienko, Artem and {\v{Z}}{\'\i}dek, Karel},
+  journal={Optics express},
+  volume={27},
+  number={4},
+  pages={4562--4571},
+  year={2019},
+  publisher={Optical Society of America}
+}
+@inproceedings{bartz2021optimization,
+  title={Optimization and Adaptation of a Resource Planning Tool for Hospitals Under Special Consideration of the COVID-19 Pandemic},
+  author={Bartz-Beielstein, Thomas and Dr{\"o}scher, Marcel and G{\"u}r, Alpar and Hinterleitner, Alexander and Lawton, Tom and Mersmann, Olaf and Peeva, Dessislava and Reese, Lennard and Rehbach, Nicolas and Rehbach, Frederik and others},
+  booktitle={2021 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={728--735},
+  year={2021},
+  organization={IEEE}
+}
+@article{Jochum2020Oct,
+	author = {Jochum, Katharina},
+	title = {{"2021 wird das Jahr der Virtual Reality"}},
+	journal = {Inside IT - Das Portal f{\ifmmode\ddot{u}\else\"{u}\fi}r IT Verantwortliche},
+	year = {2020},
+	month = {Oct},
+	publisher = {Inside IT - Das Portal f{\ifmmode\ddot{u}\else\"{u}\fi}r IT Verantwortliche},
+	url = {https://www.inside-it.ch/de/post/2021-wird-das-jahr-der-virtual-reality-20201022}
+}
+@article{Team2021Sep,
+	author = {Team, Web},
+	title = {{Black market for fake Covid vaccine certificates has grown 10 times in 29 countries: Study}},
+	journal = {WION},
+	year = {2021},
+	month = {Sep},
+	publisher = {WION},
+	url = {https://www.wionews.com/world/black-market-for-fake-covid-vaccine-certificates-has-grown-10-times-in-29-countries-study-414949}
+}
+@article{Page2021Sep3,
+	author = {Page, Carly},
+	title = {{Tide encryption is ready to end the cyber breach pandemic}},
+	journal = {TechCrunch},
+	year = {2021},
+	month = {Sep},
+	publisher = {TechCrunch},
+	url = {https://techcrunch.com/2021/09/22/tide-encryption-is-ready-to-end-the-cyber-breach-pandemic}
+}
+@misc{BibEntry2021Sepe1,
+	title = {{The countries where Bitcoin and crypto are banned or restricted}},
+	journal = {euronews},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 24. Sep. 2021]},
+	url = {https://www.euronews.com/next/2021/09/19/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2}
+}
+@article{roosli2021bias,
+  title={Bias at warp speed: how AI may contribute to the disparities gap in the time of COVID-19},
+  author={R{\"o}{\"o}sli, Eliane and Rice, Brian and Hernandez-Boussard, Tina},
+  journal={Journal of the American Medical Informatics Association},
+  volume={28},
+  number={1},
+  pages={190--192},
+  year={2021},
+  publisher={Oxford University Press}
+}
+@article{Palmer2021Sep,
+	author = {Palmer, Mark},
+	title = {{Seven Steps To Help You Reduce Bias in Algorithms in Light of the EU{'}s Trustworthy AI Blueprint}},
+	journal = {Medium},
+	year = {2021},
+	month = {Sep},
+	publisher = {Towards Data Science},
+	url = {https://towardsdatascience.com/seven-steps-to-help-you-reduce-bias-in-algorithms-in-light-of-the-eus-trustworthy-ai-blueprint-b348dc3cf2ae}
+}
+@article{Davies2021Sepe1,
+	author = {Davies, Rob},
+	title = {{Undisclosed private companies analysing facial data from NHS app}},
+	journal = {the Guardian},
+	year = {2021},
+	month = {Sep},
+	publisher = {The Guardian},
+	url = {https://www.theguardian.com/society/2021/sep/24/undisclosed-private-companies-analysing-facial-data-from-nhs-app}
+}
+@misc{BibEntry2021Sepk1,
+	title = {{Deep learning helps predict new drug combinations to fight Covid-19}},
+	journal = {MIT News {$\vert$} Massachusetts Institute of Technology},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 25. Sep. 2021]},
+	url = {https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924}
+}
+@article{jin2021deep,
+  title={Deep learning identifies synergistic drug combinations for treating COVID-19},
+  author={Jin, Wengong and Stokes, Jonathan M and Eastman, Richard T and Itkin, Zina and Zakharov, Alexey V and Collins, James J and Jaakkola, Tommi S and Barzilay, Regina},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={39},
+  year={2021},
+  publisher={National Acad Sciences}
+}
+@article{Obermeyer2021Sep,
+	author = {Obermeyer, Ziad},
+	title = {{A machine-learning algorithm to target COVID testing of travellers}},
+	journal = {Nature},
+	year = {2021},
+	month = {Sep},
+	publisher = {Nature Publishing Group},
+	doi = {10.1038/d41586-021-02556-w}
+}
+@article{Wiggers2021Sep,
+	author = {Wiggers, Kyle},
+	title = {{Improved algorithms may be more important for AI performance than faster hardware}},
+	journal = {VentureBeat},
+	year = {2021},
+	month = {Sep},
+	publisher = {VentureBeat},
+	url = {https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware}
+}
+@article{Waltz2021Sep,
+	author = {Waltz, Emily},
+	title = {{COVID Breathalyzers Could Transform Rapid Testing}},
+	journal = {IEEE Spectr.},
+	year = {2021},
+	month = {Sep},
+	publisher = {IEEE Spectrum},
+	url = {https://spectrum.ieee.org/covid-breathalyzers-could-transform-rapid-testing/gas-chromatography-ion-mobility-spectrometry}
+}
+@article{nurputra2021fast,
+  title={Fast and noninvasive electronic nose for sniffing out COVID-19 based on exhaled breath-print recognition},
+  author={Nurputra, Dian Kesumapramudya and Kusumaatmadja, Ahmad and Hakim, Mohamad Saifudin and Hidayat, Shidiq Nur and Julian, Trisna and Sumanto, Budi and Mahendradhata, Yodi and Saktiawati, Antonia Morita Iswari and Wasisto, Hutomo Suryo and Triyana, Kuwat},
+  year={2021}
+}
+@article{nabulsi2021deep,
+  title={Deep learning for distinguishing normal versus abnormal chest radiographs and generalization to two unseen diseases tuberculosis and COVID-19},
+  author={Nabulsi, Zaid and Sellergren, Andrew and Jamshy, Shahar and Lau, Charles and Santos, Edward and Kiraly, Atilla P and Ye, Wenxing and Yang, Jie and Pilgrim, Rory and Kazemzadeh, Sahar and others},
+  journal={Scientific Reports},
+  volume={11},
+  number={1},
+  pages={1--15},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@misc{BibEntry2021Sepr1,
+	title = {{How Korea is using ICT to fight the pandemic}},
+	journal = {Asiance},
+	year = {2021},
+	month = {Sep},
+	note = {[Online; accessed 28. Sep. 2021]},
+	url = {https://blog.asiance.com/2020/06/09/3995}
+}
+@misc{BibEntry2020Apr76,
+	title = {{[COVID-19]Korea Releases COVID-19 Response Strategy with ICT xn--ok0b03znzcvn{$\vert$}News/NoticeConsulate General of the Republic of Korea in Toronto}},
+	year = {2020},
+	month = {Apr},
+	note = {[Online; accessed 29. Sep. 2021]},
+	url = {https://mex.mofa.go.kr/ca-toronto-en/brd/m_5279/view.do?seq=760678}
+}
+@article{garg2021comparative,
+  title={Comparative analysis of Android and iOS from security viewpoint},
+  author={Garg, Shivi and Baliyan, Niyati},
+  journal={Computer Science Review},
+  volume={40},
+  pages={100372},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{hatamian2021privacy,
+  title={A privacy and security analysis of early-deployed COVID-19 contact tracing Android apps},
+  author={Hatamian, Majid and Wairimu, Samuel and Momen, Nurul and Fritsch, Lothar},
+  journal={Empirical Software Engineering},
+  volume={26},
+  number={3},
+  pages={1--51},
+  year={2021},
+  publisher={Springer}
+}
+@article{li2021makes,
+  title={What makes people install a COVID-19 contact-tracing app? Understanding the influence of app design and individual difference on contact-tracing app adoption intention},
+  author={Li, Tianshi and Cobb, Camille and Yang, Jackie and Baviskar, Sagar and Agarwal, Yuvraj and Li, Beibei and Bauer, Lujo and Hong, Jason I},
+  journal={Pervasive and Mobile Computing},
+  pages={101439},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{BBCNews2021Sepabelian,
+	author = {{BBC News}},
+	title = {{WhatsApp issued second-largest GDPR fine of {\mbox{\texteuro}}225m}},
+	journal = {BBC News},
+	year = {2021},
+	month = {Sep},
+	publisher = {BBC News},
+	url = {https://www.bbc.com/news/technology-58422465}
+}
+@article{dou2021federated,
+  title={Federated deep learning for detecting COVID-19 lung abnormalities in CT: a privacy-preserving multinational validation study},
+  author={Dou, Qi and So, Tiffany Y and Jiang, Meirui and Liu, Quande and Vardhanabhuti, Varut and Kaissis, Georgios and Li, Zeju and Si, Weixin and Lee, Heather HC and Yu, Kevin and others},
+  journal={NPJ digital medicine},
+  volume={4},
+  number={1},
+  pages={1--11},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@article{gupta2021evaluation,
+  title={Evaluation of a Parsimonious COVID-19 Outbreak Prediction Model: Heuristic Modeling Approach Using Publicly Available Data Sets},
+  author={Gupta, Agrayan K and Grannis, Shaun J and Kasthurirathne, Suranga N},
+  journal={Journal of Medical Internet Research},
+  volume={23},
+  number={7},
+  pages={e28812},
+  year={2021},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{li2021exploring,
+  title={Exploring text-transformers in aaai 2021 shared task: Covid-19 fake news detection in english},
+  author={Li, Xiangyang and Xia, Yu and Long, Xiang and Li, Zheng and Li, Sujian},
+  journal={arXiv preprint arXiv:2101.02359},
+  year={2021}
+}
+@article{shorfuzzaman2021metacovid,
+  title={MetaCOVID: A Siamese neural network framework with contrastive loss for n-shot diagnosis of COVID-19 patients},
+  author={Shorfuzzaman, Mohammad and Hossain, M Shamim},
+  journal={Pattern recognition},
+  volume={113},
+  pages={107700},
+  year={2021},
+  publisher={Elsevier}
+}
+@misc{BibEntry2020Febindo,
+	title = {{Telehealth Devices {\&} Equipment - Vici {$\vert$} InTouch Health}},
+	journal = {InTouch Health},
+	year = {2020},
+	month = {Feb},
+	note = {[Online; accessed 10. Oct. 2021]},
+	url = {https://intouchhealth.com/telehealth-devices/intouch-vici}
+}
+@misc{BibEntry2021Aprde,
+	title = {{A game changer for air travel: Indonesia's COVID-19 breath analyzer - Uniting Aviation}},
+	journal = {Uniting Aviation},
+	year = {2021},
+	month = {Apr},
+	note = {[Online; accessed 12. Oct. 2021]},
+	url = {https://unitingaviation.com/news/safety/a-game-change-for-air-travel-indonesias-covid-19-breath-analyzer}
+}
+@article{ahmed2020social,
+  title={A Social Network Analysis of Tweets Related to Masks during the COVID-19 Pandemic},
+  author={Ahmed, Wasim and Vidal-Alaball, Josep and Lopez Segui, Francesc and Moreno-S{\'a}nchez, Pedro A},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={17},
+  number={21},
+  pages={8235},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{hung2020social,
+  title={Social network analysis of COVID-19 sentiments: Application of artificial intelligence},
+  author={Hung, Man and Lauren, Evelyn and Hon, Eric S and Birmingham, Wendy C and Xu, Julie and Su, Sharon and Hon, Shirley D and Park, Jungweon and Dang, Peter and Lipsky, Martin S},
+  journal={Journal of medical Internet research},
+  volume={22},
+  number={8},
+  pages={e22590},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+@article{yehya2021challenges,
+  title={Challenges and the innovations in the care of advanced heart failure patients during COVID-19},
+  author={Yehya, Amin and Shah, Kevin S and Mitter, Sumeet S and Ibrahim, Nasrien E and Sperry, Brett and Shah, Mahek and Chaudhry, Sunit-Preet and Rajagopalan, Navin and Hernandez-Montfort, Jaime and Mohan, Rajeev and others},
+  journal={Heart Failure Reviews},
+  pages={1--4},
+  year={2021},
+  publisher={Springer}
+}
+@article{hibberd2021general,
+  title={General Practice in the Time of COVID-19: A Mixed-Methods Service Evaluation of a Primary Care COVID-19 Service},
+  author={Hibberd, James and Carter, Jessica and McCoy, Michaella and Rafiq, Meena and Varma, Amita and Sanghera, Rita and Matthews, Philippa and Rait, Greta},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={18},
+  number={6},
+  pages={2895},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{bana2021sanitizerbot,
+  title={SanitizerBot: A Hand Sanitizer Service Robot},
+  author={Bana, Parthasarathy Reddy and Tsai, Yao-Lin and Knight, Heather},
+  booktitle={Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction},
+  pages={661--661},
+  year={2021}
+}
+@article{deCarvalho2020Jun,
+	author = {de Carvalho, Luis Felipe das Chagas e. Silva and Nogueira, Marcelo Saito},
+	title = {{Optical techniques for fast screening {\textendash} Towards prevention of the coronavirus COVID-19 outbreak}},
+	journal = {Photodiagn. Photodyn. Ther.},
+	volume = {30},
+	pages = {101765},
+	year = {2020},
+	month = {Jun},
+	publisher = {Elsevier},
+	doi = {10.1016/j.pdpdt.2020.101765}
+}
+@article{nogueira2021rapid,
+  title={Rapid diagnosis of COVID-19 using FT-IR ATR spectroscopy and machine learning},
+  author={Nogueira, Marcelo Saito and Leal, Leonardo Barbosa and Macarini, Wena and Pimentel, Raquel Lemos and Muller, Matheus and Vassallo, Paula Frizera and Campos, Luciene Cristina Gastalho and Dos Santos, Leonardo and Luiz, Wilson Barros and Mill, Jos{\'e} Geraldo and others},
+  journal={Scientific reports},
+  volume={11},
+  number={1},
+  pages={1--13},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@article{tolles2020modeling,
+  title={Modeling epidemics with compartmental models},
+  author={Tolles, Juliana and Luong, ThaiBinh},
+  journal={Jama},
+  volume={323},
+  number={24},
+  pages={2515--2516},
+  year={2020},
+  publisher={American Medical Association}
+}
+@article{georgiadis2021optimal,
+  title={Optimal planning of the COVID-19 vaccine supply chain},
+  author={Georgiadis, Georgios P and Georgiadis, Michael C},
+  journal={Vaccine},
+  volume={39},
+  number={37},
+  pages={5302--5312},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{Agency2021Dec,
+	author = {Agency, U. K. Health Security},
+	title = {{COVID-19 variants: genomically confirmed case numbers}},
+	journal = {GOV},
+	year = {2021},
+	month = {Dec},
+	publisher = {GOV.UK},
+	url = {https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers}
+}
+@article{bertsimas2020optimizing,
+  title={Optimizing vaccine allocation to combat the covid-19 pandemic},
+  author={Bertsimas, Dimitris and Ivanhoe, Joshua Kiefer and Jacquillat, Alexandre and Li, Michael Lingzhi and Previero, Alessandro and Lami, Omar Skali and Bouardi, Hamza Tazi},
+  journal={medRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+@article{car2020video,
+  title={Video consultations in primary and specialist care during the covid-19 pandemic and beyond},
+  author={Car, Josip and Koh, Gerald Choon-Huat and Foong, Pin Sym and Wang, C Jason},
+  journal={bmj},
+  volume={371},
+  year={2020},
+  publisher={British Medical Journal Publishing Group}
+}
+@book{harris2004introduction,
+  title={An introduction to the theory of the Boltzmann equation},
+  author={Harris, Stewart},
+  year={2004},
+  publisher={Courier Corporation}
+}
+@article{sim2021digital,
+  title={Digital Technology for AMD Management in the Post-COVID-19 New Normal},
+  author={Sim, Shaun Sebastian and Yip, Michelle Yt and Wang, Zhaoran and Tan, Anna Cheng Sim and Tan, Gavin Siew Wei and Cheung, Chui Ming Gemmy and Chakravarthy, Usha and Wong, Tien Yin and Teo, Kelvin Yi Chong and Ting, Daniel Sw},
+  journal={The Asia-Pacific Journal of Ophthalmology},
+  volume={10},
+  number={1},
+  pages={39--48},
+  year={2021},
+  publisher={LWW}
+}
+@misc{gonzales2002digital,
+  title={Digital image processing},
+  author={Gonzales, Rafael C and Woods, Richard E},
+  year={2002},
+  publisher={Prentice hall New Jersey}
+}
+@article{pan2011fast,
+  title={Fast and robust circular object detection with probabilistic pairwise voting},
+  author={Pan, Lili and Chu, Wen-Sheng and Saragih, Jason M and De la Torre, Fernando and Xie, Mei},
+  journal={IEEE signal processing letters},
+  volume={18},
+  number={11},
+  pages={639--642},
+  year={2011},
+  publisher={IEEE}
+}
+@inproceedings{rublee2011orb,
+  title={ORB: An efficient alternative to SIFT or SURF},
+  author={Rublee, Ethan and Rabaud, Vincent and Konolige, Kurt and Bradski, Gary},
+  booktitle={2011 International conference on computer vision},
+  pages={2564--2571},
+  year={2011},
+  organization={Ieee}
+}
+@incollection{herout2013review,
+  title={Review of Hough transform for line detection},
+  author={Herout, Adam and Dubsk{\'a}, Mark{\'e}ta and Havel, Jir{\'\i}},
+  booktitle={Real-time detection of lines and grids},
+  pages={3--16},
+  year={2013},
+  publisher={Springer}
+}
+@article{iqbal2020canny,
+  title={Canny edge detection and Hough transform for high resolution video streams using Hadoop and Spark},
+  author={Iqbal, Bilal and Iqbal, Waheed and Khan, Nazar and Mahmood, Arif and Erradi, Abdelkarim},
+  journal={Cluster Computing},
+  volume={23},
+  number={1},
+  pages={397--408},
+  year={2020},
+  publisher={Springer}
+}
+@article{he2017connected,
+  title={The connected-component labeling problem: A review of state-of-the-art algorithms},
+  author={He, Lifeng and Ren, Xiwei and Gao, Qihang and Zhao, Xiao and Yao, Bin and Chao, Yuyan},
+  journal={Pattern Recognition},
+  volume={70},
+  pages={25--43},
+  year={2017},
+  publisher={Elsevier}
+}
+@inproceedings{das2019critical,
+  title={Critical dimension of Word2Vec},
+  author={Das, Shuvayanti and Ghosh, Sohan and Bhattacharya, Shubham and Varma, Rajat and Bhandari, Dinabandhu},
+  booktitle={2019 2nd International Conference on Innovations in Electronics, Signal Processing and Communication (IESC)},
+  pages={202--206},
+  year={2019},
+  organization={IEEE}
+}
+@article{goldstein2004boltzmann,
+  title={On the (Boltzmann) entropy of non-equilibrium systems},
+  author={Goldstein, Sheldon and Lebowitz, Joel L},
+  journal={Physica D: Nonlinear Phenomena},
+  volume={193},
+  number={1-4},
+  pages={53--66},
+  year={2004},
+  publisher={Elsevier}
+}
+@article{lomoro2020covid,
+  title={COVID-19 pneumonia manifestations at the admission on chest ultrasound, radiographs, and CT: single-center study and comprehensive radiologic literature review},
+  author={Lomoro, Pascal and Verde, Francesco and Zerboni, Filippo and Simonetti, Igino and Borghi, Claudia and Fachinetti, Camilla and Natalizi, Anna and Martegani, Alberto},
+  journal={European journal of radiology open},
+  volume={7},
+  pages={100231},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{ferranna2021covid,
+  title={COVID-19 Vaccine Allocation: Modeling Health Outcomes and Equity Implications of Alternative Strategies},
+  author={Ferranna, Maddalena and Cadarette, Daniel and Bloom, David E},
+  journal={Engineering},
+  year={2021},
+  publisher={Elsevier}
+}
